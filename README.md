@@ -38,13 +38,14 @@ Helpful Templates
   * PowerPoint, *in-progress*
 
 ##Tips & Tricks
-* These are vector files produced with Adobe Illustrator or .ai.
+* These templates are vector files produced with Adobe Illustrator or .ai files.
 * The files are produced at 200% size to accommodate high resolution screens.
 * All pattern files contain simplified versions of the Office applications in the background. Refer to the helpful add-in templates for more accurate backgrounds.
 * When designing with these assets please keep the following in mind:
  * Copy Add-in UI from a pattern file and place into the Office Add-in template of your choice.
  * Icon assets have been converted to outlines and reproduced at 200% to match
  * Font sizes similarly produced at 200%: 11pt = 22pt
+ * To open, edit and design with these templates, we assume you have a the Segoe UI font.
  * Some files contained linked files. These references are contained in a folder named "Embedded Backgrounds"
  * Some common elements used across files have been created as symbols. These are contained in the "Embedded Symbols" folder.
 
