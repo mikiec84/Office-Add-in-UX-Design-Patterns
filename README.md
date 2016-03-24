@@ -38,8 +38,8 @@ Helpful Templates
   * PowerPoint
 
 ##Learn more
-* Best practices for developing Office Add-ins. https://msdn.microsoft.com/EN-US/library/office/mt590883.aspx
-* Office UI Fabric, The UI toolkit for building experiences for Office and Office 365. http://dev.office.com/fabric/
+* [Best practices for developing Office Add-ins](https://msdn.microsoft.com/EN-US/library/office/mt590883.aspx).
+* [Office UI Fabric](http://dev.office.com/fabric/), The UI toolkit for building experiences for Office and Office 365.
 
 ##Comments, Questions & Contributions
 * We love your feedback - bugs, feature request and general questions are all posted on the [issue tracker](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/issues).
