@@ -2,8 +2,8 @@
 This repository is a library of common design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns or download the templates to quickly create your own mock-ups.
 
 ##Get Started
-- Browse PDF files of Office Add-in Design Patterns
-- Download zip file containing Adobe Illustrator templates
+- [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of Office Add-in Design Patterns
+- [Download ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
 
 ##Office Add-in Design Patterns
 Patterns
@@ -22,8 +22,8 @@ Patterns
 - Authentication Flow, *in-progress*
 
 Helpful Templates
-* Icon Production Template
-* Icon Master Sheet
+* [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf)
+* Icon Master Sheet, *in-progress*
 * Office Add-in Templates for Desktop
   * [Word Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template%20_Word_Desktop_reference.pdf)
   * Excel Desktop, *in-progress*
