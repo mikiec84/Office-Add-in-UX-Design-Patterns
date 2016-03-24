@@ -7,35 +7,35 @@ This repository is a library of common design patterns for Office Add-ins. It re
 
 ##Office Add-in Design Patterns
 Patterns
-- Base Styles and Typography Ramp
-- Brand Bar
-- Brand Splash Screen
-- Embedded Dialog
-- Notification - Errors
-- Notification - Message Banner
-- Notification - Progress
-- Notification - Toast
-- First Run - Value Placemat
-- First Run - Video Placemat
-- First Run - Steps to Start
-- First Run - Paging Panel
-- Authentication Flow
+- [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.pdf)
+- [Brand Bar](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_bar.pdf)
+- [Brand Splash Screen](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_splashscreen.pdf)
+- [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_dialog.pdf)
+- [Notification - Errors](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_error.pdf)
+- [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf)
+- [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf)
+- [Notification - Toast](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_toast.pdf)
+- First Run - Value Placemat, *in-progress*
+- First Run - Video Placemat, *in-progress*
+- First Run - Steps to Start, *in-progress*
+- First Run - Paging Panel, *in-progress*
+- Authentication Flow, *in-progress*
 
 Helpful Templates
 * Icon Production Template
 * Icon Master Sheet
 * Office Add-in Templates for Desktop
-  * Word Desktop
-  * Excel Desktop
-  * PowerPoint Desktop
+  * [Word Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template%20_Word_Desktop_reference.pdf)
+  * Excel Desktop, *in-progress*
+  * [PowerPoint Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddInTemplate%20_PowerPoint_Desktop_reference.pdf)
 * Office Add-in Templates for iPad
-  * Word iPad
-  * Excel iPad
-  * PowerPoint iPad
+  * Word iPad, *in-progress*
+  * Excel iPad, *in-progress*
+  * PowerPoint iPad, *in-progress*
 * Store Experiences
-  * Word
-  * Excel
-  * PowerPoint
+  * Word, *in-progress*
+  * Excel, *in-progress*
+  * PowerPoint, *in-progress*
 
 ##Tips & Tricks
 * These are vector files produced with Adobe Illustrator or .ai.
