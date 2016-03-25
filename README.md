@@ -19,19 +19,19 @@ Patterns
 - First Run - Video Placemat, *in-progress*
 - First Run - Steps to Start, *in-progress*
 - First Run - Paging Panel, *in-progress*
-- Authentication Flow, *in-progress*
+- [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_flow.pdf)
 
 Helpful Templates
-* [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf)
-* Icon Master Sheet, *in-progress*
+* [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf), *Open the pdf as reference, use the AI file for production*
+* [Office UI Fabric Icon Master Sheet](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/OfficeUIFabric_icon_mastersheet.pdf), *Open the pdf as reference, use the AI file for production*
 * Office Add-in Templates for Desktop
   * [Word Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template%20_Word_Desktop_reference.pdf)
-  * Excel Desktop, *in-progress*
-  * [PowerPoint Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddInTemplate%20_PowerPoint_Desktop_reference.pdf)
+  * [Excel Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Excel_Desktop_reference.pdf)
+  * [PowerPoint Desktop](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddInTemplate_PowerPoint_Desktop_reference.pdf)
 * Office Add-in Templates for iPad
-  * Word iPad, *in-progress*
-  * Excel iPad, *in-progress*
-  * PowerPoint iPad, *in-progress*
+  * [Word iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Word_iPad_reference.pdf)
+  * [Excel iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Excel_iPad_reference.pdf)
+  * [PowerPoint iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_PowerPoint_iPad_reference.pdf)
 * Store Experiences
   * Word, *in-progress*
   * Excel, *in-progress*
@@ -58,5 +58,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
+*3/25/16 - Additional templates and patterns added
 *3/24/16 - Initial read-me and patterns release
+
 
