@@ -58,7 +58,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
-*3/25/16 - Additional templates and patterns added
-*3/24/16 - Initial read-me and patterns release
+* 3/25/16 - Additional templates and patterns added
+* 3/24/16 - Initial read-me and patterns release
 
 
