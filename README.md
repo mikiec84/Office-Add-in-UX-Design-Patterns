@@ -15,10 +15,10 @@ Patterns
 - [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf)
 - [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf)
 - [Notification - Toast](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_toast.pdf)
-- First Run - Value Placemat, *in-progress*
-- First Run - Video Placemat, *in-progress*
-- First Run - Steps to Start, *in-progress*
-- First Run - Paging Panel, *in-progress*
+- [First Run - Value Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_ValuePlacemat.pdf)
+- [First Run - Video Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.pdf)
+- [First Run - Steps to Start](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.pdf)
+- [First Run - Paging Panel](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.pdf)
 - [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_flow.pdf)
 
 Helpful Templates
