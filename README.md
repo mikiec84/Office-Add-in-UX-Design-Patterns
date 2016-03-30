@@ -11,7 +11,7 @@ Patterns
 - [Brand Bar](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_bar.pdf)
 - [Brand Splash Screen](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_splashscreen.pdf)
 - [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_dialog.pdf)
-- [Notification - Errors](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_error.pdf)
+- [Notification - Inline Message](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_Inline_Message.pdf)
 - [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf)
 - [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf)
 - [Notification - Toast](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_toast.pdf)
