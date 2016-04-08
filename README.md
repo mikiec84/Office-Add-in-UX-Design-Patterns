@@ -58,6 +58,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
+* 4/7/16 - Updates to the auth flows and dialog patterns
 * 3/31/16 - Updates to dialog patterns files and other minor fixes
 * 3/30/16 - Added 4 new first run patterns, updated brand_bar and notifications_inline_messages pattern
 * 3/25/16 - Additional templates and patterns added
