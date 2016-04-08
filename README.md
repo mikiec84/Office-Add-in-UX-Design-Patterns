@@ -10,7 +10,7 @@ Patterns
 - [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.pdf)
 - [Brand Bar](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_bar.pdf)
 - [Brand Splash Screen](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_splashscreen.pdf)
-- [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_dialog.pdf)
+- [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_Dialog.pdf)
 - [Notification - Inline Message](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_Inline_Message.pdf)
 - [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf)
 - [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf)
@@ -19,7 +19,7 @@ Patterns
 - [First Run - Video Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.pdf)
 - [First Run - Steps to Start](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.pdf)
 - [First Run - Paging Panel](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.pdf)
-- [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_flow.pdf)
+- [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_Flow.pdf)
 
 Helpful Templates
 * [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf), *Open the pdf as reference, use the AI file for production*
