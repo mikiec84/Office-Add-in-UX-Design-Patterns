@@ -1,4 +1,4 @@
-# Office-Add-in-Design-Patterns
+# Office Add-in UX Design Patterns
 This repository is a library of common design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns or download the templates to quickly create your own mock-ups using Adobe Illustrator.
 
 ##Get Started
