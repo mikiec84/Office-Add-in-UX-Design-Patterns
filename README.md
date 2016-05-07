@@ -1,27 +1,31 @@
-# Office-Add-in-Design-Patterns
-This repository is a library of common design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns or download the templates to quickly create your own mock-ups using Adobe Illustrator.
+# Office Add-in Design Patterns
+This repository is a library of common design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns, download the templates to quickly create your own mock-ups using Adobe Illustrator, or download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code").
 
 ##Get Started
-- [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of Office Add-in Design Patterns
-- [Download ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
+- [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of the Office Add-in UX design patterns.
+- [Download the ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
+- Download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code") to start building add-ins.
 
 ##Office Add-in Design Patterns
+
 Patterns
+
 - [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.pdf)
 - [Brand Bar](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_bar.pdf)
 - [Brand Splash Screen](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Brand_splashscreen.pdf)
-- [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_Dialog.pdf)
-- [Notification - Inline Message](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_Inline_Message.pdf)
-- [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf)
-- [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf)
-- [Notification - Toast](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_toast.pdf)
-- [First Run - Value Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_ValuePlacemat.pdf)
-- [First Run - Video Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.pdf)
-- [First Run - Steps to Start](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.pdf)
-- [First Run - Paging Panel](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.pdf)
+- [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Embedded_Dialog.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/embedded-dialog "code"))
+- [Notification - Inline Message](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_Inline_Message.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/inline-message "code"))
+- [Notification - Message Banner](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_messagebanner.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/message-banner "code"))
+- [Notification - Progress](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_progress.pdf) ([progress bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/progress-bar "progress bar"), [spinner](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/spinner "spinner"))
+- [Notification - Toast](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Notification_toast.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/toast "code"))
+- [First Run - Value Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_ValuePlacemat.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/value-placemat "code"))
+- [First Run - Video Placemat](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/video-placemat "code"))
+- [First Run - Steps to Start](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/instruction-step "code"))
+- [First Run - Paging Panel](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.pdf) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/walkthrough "code"))
 - [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_Flow.pdf)
 
 Helpful Templates
+
 * [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf), *Open the pdf as reference, use the AI file for production*
 * [Office UI Fabric Icon Master Sheet](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/OfficeUIFabric_icon_mastersheet.pdf), *Open the pdf as reference, use the AI file for production*
 * Office Add-in Templates for Desktop
@@ -42,12 +46,12 @@ Helpful Templates
 * The files are produced at 200% size to accommodate high resolution screens.
 * All pattern files contain simplified versions of the Office applications in the background. Refer to the helpful add-in templates for more accurate backgrounds.
 * When designing with these assets please keep the following in mind:
- * Copy Add-in UI from a pattern file and place into the Office Add-in template of your choice.
+ * Copy the add-in UI from a pattern file and place into the Office Add-in template of your choice.
  * Icon assets have been converted to outlines and reproduced at 200% to match
  * Font sizes similarly produced at 200%: 11pt = 22pt
- * To open, edit and design with these templates, we assume you have a the Segoe UI font.
- * Some files contained linked files. These references are contained in a folder named "Embedded Backgrounds"
- * Some common elements used across files have been created as symbols. These are contained in the "Embedded Symbols" folder.
+ * To open, edit and design with these templates, we assume you have a  Segoe UI font.
+ * Some files contain linked files from the folder called "Embedded Backgrounds".
+ * Some common elements used across files have been created as symbols. These can be found in the "Embedded Symbols" folder.
 
 ##Learn more
 * [Best practices for developing Office Add-ins](https://msdn.microsoft.com/EN-US/library/office/mt590883.aspx).
@@ -58,6 +62,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
+* 5/6/2016 - Added links to code repo.
 * 4/7/16 - Updates to the auth flows and dialog patterns
 * 3/31/16 - Updates to dialog patterns files and other minor fixes
 * 3/30/16 - Added 4 new first run patterns, updated brand_bar and notifications_inline_messages pattern
