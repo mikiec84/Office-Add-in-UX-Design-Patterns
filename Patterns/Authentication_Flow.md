@@ -22,7 +22,7 @@ Flowchart and title page
 
 
 ![Authentication Flow - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Authentication_Flow/Authentication_Flow_Desktop%20Content%20Window%20Callouts.png)
-1. First run placemat - content Window
+1. First run placemat - content window
 
 
 ![Authentication Flow - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Authentication_Flow/Authentication_Flow_Desktop%20Content%20Window.png)
