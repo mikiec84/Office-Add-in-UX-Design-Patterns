@@ -2,7 +2,7 @@
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Authentication_Flow.ai?raw=true)
 
 ***
-![Authentication Flow - Flowchart](Authentication_Flow/Authentication_Flow_Title%20Page.png)
+![Authentication Flow - Flowchart](../PNGs/Authentication_Flow/Authentication_Flow_Title%20Page.png)
 Flowchart and title page
 
 ![Authentication Flow - First run placemat - task pane](Authentication_Flow/Authentication_Flow_Desktop%20Task%20Pane%20Callouts.png)
