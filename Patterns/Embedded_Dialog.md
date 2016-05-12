@@ -5,25 +5,25 @@ Embedded dialog shows a dialog inside the task pane that provides information an
 
 ***
 
-![Embedded Dialog - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_Desktop%20Task%20Pane%20Callouts.png)
+![Embedded Dialog - Specifications for desktop task pane](Assets/Embedded_Dialog/Embedded_Dialog_Desktop%20Task%20Pane%20Callouts.png)
 Specifications for desktop task pane 
 
 
-![Embedded Dialog - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_Desktop%20Task%20Pane.png)
+![Embedded Dialog - Composition for desktop task pane](Assets/Embedded_Dialog/Embedded_Dialog_Desktop%20Task%20Pane.png)
 Composition for desktop task pane 
 
 
-![Embedded Dialog - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_iPad%20Task%20Pane.png)
+![Embedded Dialog - Composition for iPad task pane](Assets/Embedded_Dialog/Embedded_Dialog_iPad%20Task%20Pane.png)
 Composition for iPad task pane 
 
 
-![Embedded Dialog - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_Desktop%20Content%20Window%20Callouts.png)
+![Embedded Dialog - Specifications for desktop content window](Assets/Embedded_Dialog/Embedded_Dialog_Desktop%20Content%20Window%20Callouts.png)
 Specifications for desktop content window
 
 
-![Embedded Dialog - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_Desktop%20Content%20Window.png)
+![Embedded Dialog - Composition for desktop content window](Assets/Embedded_Dialog/Embedded_Dialog_Desktop%20Content%20Window.png)
 Composition for desktop content window
 
 
-![Embedded Dialog - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/Embedded_Dialog/Embedded_Dialog_iPad%20Content%20Window.png)
+![Embedded Dialog - Composition for iPad content window](Assets/Embedded_Dialog/Embedded_Dialog_iPad%20Content%20Window.png)
 Composition for iPad content window
