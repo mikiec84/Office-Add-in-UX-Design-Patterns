@@ -5,7 +5,7 @@
 ![Authentication Flow - Flowchart](Assets/Authentication_Flow/Authentication_Flow_Title%20Page.png)
 Flowchart and title page
 
-![Authentication Flow - First run placemat - task pane](Assets/Authentication_Flow_Desktop%20Task%20Pane%20Callouts.png)
+![Authentication Flow - First run placemat - task pane](Assets/Authentication_Flow/Authentication_Flow_Desktop%20Task%20Pane%20Callouts.png)
 1. First run placemat - task pane
 
 
