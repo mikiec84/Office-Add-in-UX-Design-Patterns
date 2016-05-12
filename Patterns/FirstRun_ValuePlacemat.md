@@ -5,25 +5,25 @@ Value Placemat communicates your add-in's value proposition.
 
 ***
 
-![First Run - Value Placemat - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Task%20Pane%20Callouts.png)
+![First Run - Value Placemat - Specifications for desktop task pane](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Task%20Pane%20Callouts.png)
 Specifications for desktop task pane 
 
 
-![First Run - Value Placemat - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Task%20Pane.png)
+![First Run - Value Placemat - Composition for desktop task pane](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Task%20Pane.png)
 Composition for desktop task pane 
 
 
-![First Run - Value Placemat - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_iPad%20Task%20Pane.png)
+![First Run - Value Placemat - Composition for iPad task pane](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_iPad%20Task%20Pane.png)
 Composition for iPad task pane 
 
 
-![First Run - Value Placemat - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Content%20Window%20Callouts.png)
+![First Run - Value Placemat - Specifications for desktop content window](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Content%20Window%20Callouts.png)
 Specifications for desktop content window
 
 
-![First Run - Value Placemat - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Content%20Window.png)
+![First Run - Value Placemat - Composition for desktop content window](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_Desktop%20Content%20Window.png)
 Composition for desktop content window
 
 
-![First Run - Value Placemat - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/alec's-markdown/PNGs/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_iPad%20Content%20Window.png)
+![First Run - Value Placemat - Composition for iPad content window](Assets/FirstRun_ValuePlacemat/FirstRun_ValuePlacemat_iPad%20Content%20Window.png)
 Composition for iPad content window
