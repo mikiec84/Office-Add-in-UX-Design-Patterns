@@ -21,7 +21,7 @@ Composition for desktop task pane
 Composition for iPad task pane 
 
 
-![Notification - Progress - Specifications for desktop content window](Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window.png)
+![Notification - Progress - Specifications for desktop content window](Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window%20Callouts.png)
 Specifications for desktop content window
 
 
