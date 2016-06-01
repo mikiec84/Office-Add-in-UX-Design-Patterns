@@ -39,9 +39,9 @@ Helpful Templates
   * [Excel iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Excel_iPad_reference.pdf)
   * [PowerPoint iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_PowerPoint_iPad_reference.pdf)
 * Store Experiences
-  * Word, *in-progress*
-  * Excel, *in-progress*
-  * PowerPoint, *in-progress*
+  * [Word](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_word_template.pdf)
+  * [Excel](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_excel_template.pdf)
+  * [PowerPoint](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_powerpoint_template.pdf)
 
 ##Tips & Tricks
 * These templates are vector files produced with Adobe Illustrator or .ai files.
