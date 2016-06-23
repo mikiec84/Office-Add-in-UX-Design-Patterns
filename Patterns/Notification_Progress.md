@@ -9,26 +9,26 @@ Spinner indicates that a long-running, synchronous process is underway, but prov
 
 ***
 
-![Notification - Progress - Specifications for desktop task pane](Assets/Notification_Progress/Notification_progress_Desktop%20Task%20Pane%20Callouts.png)
+![Notification - Progress - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_Desktop%20Task%20Pane%20Callouts.png)
 Specifications for desktop task pane 
 
 
-![Notification - Progress - Composition for desktop task pane](Assets/Notification_Progress/Notification_progress_Desktop%20Task%20Pane.png)
+![Notification - Progress - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_Desktop%20Task%20Pane.png)
 Composition for desktop task pane 
 
 
-![Notification - Progress - Composition for iPad task pane](Assets/Notification_Progress/Notification_progress_iPad%20Task%20Pane.png)
+![Notification - Progress - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_iPad%20Task%20Pane.png)
 Composition for iPad task pane 
 
 
-![Notification - Progress - Specifications for desktop content window](Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window%20Callouts.png)
+![Notification - Progress - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window%20Callouts.png)
 Specifications for desktop content window
 
 
-![Notification - Progress - Composition for desktop content window](Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window.png)
+![Notification - Progress - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_Desktop%20Content%20Window.png)
 Composition for desktop content window
 
 
-![Notification - Progress](Assets/Notification_Progress/Notification_progress_iPad%20Content%20Window.png)
+![Notification - Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Notification_Progress/Notification_progress_iPad%20Content%20Window.png)
 Composition for iPad content window
 
