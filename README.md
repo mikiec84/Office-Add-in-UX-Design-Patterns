@@ -11,7 +11,7 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 Patterns
 
 - [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.pdf)
-- [Brand Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Bar.md)
+- [Brand Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Bar.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/generic/brand-bar "code"))
 - [Brand Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md)
 - [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Embedded_Dialog.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/embedded-dialog "code"))
 - [Notification - Inline Message](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_Inline_Message.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/inline-message "code"))
@@ -39,9 +39,9 @@ Helpful Templates
   * [Excel iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Excel_iPad_reference.pdf)
   * [PowerPoint iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_PowerPoint_iPad_reference.pdf)
 * Store Experiences
-  * Word, *in-progress*
-  * Excel, *in-progress*
-  * PowerPoint, *in-progress*
+  * [Word](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_word_template.pdf)
+  * [Excel](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_excel_template.pdf)
+  * [PowerPoint](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/store_experience_powerpoint_template.pdf)
 
 ##Tips & Tricks
 * These templates are vector files produced with Adobe Illustrator or .ai files.
@@ -64,6 +64,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
+* 5/19/2016 - Added Brand Bar code link.
 * 5/16/2016 - Added markdown files for each pattern.
 * 5/6/2016 - Added links to code repo.
 * 4/7/16 - Updates to the auth flows and dialog patterns
