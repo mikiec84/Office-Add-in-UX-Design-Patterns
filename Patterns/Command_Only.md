@@ -3,25 +3,25 @@
 
 ***
 
-![Nav - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Task_Pane_Callouts.png)
+![Command Only - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Task_Pane_Callouts.png)
 Specifications for desktop task pane 
 
 
-![Nav - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop Task Pane Comp.png)
+![Command Only - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop Task Pane Comp.png)
 Composition for desktop task pane 
 
 
-![Nav - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_iPad_Task_Pane_Comp.png)
+![Command Only - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_iPad_Task_Pane_Comp.png)
 Composition for iPad task pane 
 
 
-![Nav - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Content_Window_Callouts.png)
+![Command Only - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Content_Window_Callouts.png)
 Specifications for desktop content window
 
 
-![Nav - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Content_Window_Comp.png)
+![Command Only - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_Desktop_Content_Window_Comp.png)
 Composition for desktop content window
 
 
-![Nav - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_iPad_Content_Window_Comp.png)
+![Command Only - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Command_Only/Command_Only_iPad_Content_Window_Comp.png)
 Composition for iPad content window
