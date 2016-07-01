@@ -7,7 +7,7 @@
 Specifications for desktop task pane 
 
 
-![Commands - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Commands/Commands_Desktop Task Pane Comp.png)
+![Commands - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Commands/Commands_Desktop_Task_Pane_Comp.png)
 Composition for desktop task pane 
 
 
