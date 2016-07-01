@@ -1,0 +1,2138 @@
+[33mcommit a2142be880dcfe01c0d246a10e047726e9c896eb[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jul 1 14:04:40 2016 -0700
+
+    this is bringing changes from Chris-Markdown branch to daniel
+
+[33mcommit d3ccf3d8972768b0ab33ee687aaba2e626abdfd6[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jul 1 10:29:11 2016 -0700
+
+    added the links to the taabbar.md file and updated the readme.md to show tabbar link
+
+[33mcommit 383f71f4d0441b3c7ad6f304fd296d07bda1270c[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jul 1 10:11:56 2016 -0700
+
+    renaming artboards for better png naming conventions reflected in MD files
+
+[33mcommit edb9ccb80ad11dd26daa13a83d95638643f0b919[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jul 1 09:30:44 2016 -0700
+
+    Create TabBar AI Source file, TabBar MD file; and Added a TabBar Assets Folder; finally I add white rectangles in the Excel Background file
+
+[33mcommit 751ebce9305d0cbc7702efac04d6457ac3fd4e6e[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jul 1 08:14:57 2016 -0700
+
+    Minor changes to pptbackgroundgrey.ai file and the symbols library ai file
+
+[33mcommit 51adf092c428bd99ef399cf79955f35455d0fada[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Thu Jun 30 10:23:53 2016 -0700
+
+    Renamed files and Modified Command Only to reflect proper overflow functionality.
+
+[33mcommit 2cdd44f3c8e104adb71e2913cbc6fb5c001cfd33[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Thu Jun 30 08:20:06 2016 -0700
+
+    Updated settings' pngs, ai, and pdf
+
+[33mcommit 32d3a7420c194fdd2fbeb95d60d206d67b136d37[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed Jun 29 15:35:22 2016 -0700
+
+    Modified Settings pdf file
+
+[33mcommit 3abc569e3897dcc1b18b7a9d68b0cdb7d5ff6c0d[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed Jun 29 15:32:58 2016 -0700
+
+    Modified Settings pdf file
+
+[33mcommit e5e88504bafaa5049a19b2161a1467162818fd57[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed Jun 29 14:06:40 2016 -0700
+
+    Removed PNG file, Updated Settings ai file and png exports
+
+[33mcommit 78dda1966b1a373218a913a4f0242cf30f87f565[m
+Merge: cf390cf ac83a8b
+Author: Daniel Galán <danielmgalan@users.noreply.github.com>
+Date:   Tue Jun 28 09:38:18 2016 -0700
+
+    Merge pull request #29 from OfficeDev/Chris-Markdown
+    
+    Chris markdown
+
+[33mcommit cf390cfcc7bdb10a571edee64eeb61c7339125eb[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Tue Jun 28 09:24:12 2016 -0700
+
+    Revised the arrangement of the typeramp on the cover page; changed the title -Add-in Usage- to -Use-
+
+[33mcommit ac83a8bbb78c0f91a27df2e2beb3c754f3e20497[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 11:43:10 2016 -0700
+
+    modified md files for settings, nav & Commands and command only. Added settings pngs, pdf, and ai files.
+
+[33mcommit 75d4163a3101cc6e13f5d69b03dbecb9544efa0d[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 11:11:36 2016 -0700
+
+    Updated settings ai and pdf files
+
+[33mcommit c08c06f1dcd451050fc9b8dace70275606dcf008[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 10:53:53 2016 -0700
+
+    Added Command Only md and pngs. Updated Nav & Command md file.
+
+[33mcommit 5fd132cb6efe035e3a00c92af7a22d0551d65f19[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 10:39:51 2016 -0700
+
+    Adding md file and pngs for nav & commands
+
+[33mcommit 5ea357f71367bd791f3a7a97fbd297faaccd73e9[m
+Merge: c76b5c4 98a07e1
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 10:22:45 2016 -0700
+
+    Merge branch 'master' of https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns into Chris-Markdown
+
+[33mcommit c76b5c43f07cf8f32755c32d8225dc634a8958b3[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Mon Jun 27 10:21:17 2016 -0700
+
+    Adding Settings pdf and ai design spec files
+
+[33mcommit 98a07e1d85338f9749b43060e914ae97bc887eab[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Jun 24 16:06:36 2016 -0700
+
+    Added MS Open Source Code of Conduct.
+
+[33mcommit df8aa37c9f1b4015f33cee8be867cc10f8627ab4[m
+Merge: f49c957 fae2164
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Fri Jun 24 14:20:58 2016 -0700
+
+    Merge branch 'master' of https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns into Chris-Markdown
+
+[33mcommit f49c957f1a298afc00c3309aa9cca054c90d28e0[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Fri Jun 24 14:14:33 2016 -0700
+
+    Adjusted Artboard order
+
+[33mcommit 1d49d7fc9cf90d478c6644154fccc7a044e2ae8f[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Fri Jun 24 14:08:18 2016 -0700
+
+    Renamed Command_Nav & Commands_v1 to Nav_Commands and added Command Only.
+
+[33mcommit fae2164fc0c61d30e6406940e798c3f8666648aa[m
+Merge: 36fbe16 bb57d45
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri Jun 24 13:48:35 2016 -0700
+
+    Merge pull request #28 from OfficeDev/alec's-markdown
+    
+    Alec's markdown
+
+[33mcommit bb57d45efa74ea7a5d216cf03fd2651b735becc7[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri Jun 24 13:47:36 2016 -0700
+
+    Update Navigation_Hamburger.md
+
+[33mcommit 7808642e8f06a981e477f2a346defa6c4f378da2[m
+Merge: 9f58a79 36fbe16
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri Jun 24 13:43:44 2016 -0700
+
+    Merge pull request #27 from OfficeDev/master
+    
+    syncing
+
+[33mcommit 36fbe1696c751668c85f8e4134e11412dd3483be[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri Jun 24 13:42:14 2016 -0700
+
+    Rename Navigation_Hamburger to Navigation_Hamburger.md
+
+[33mcommit e4ab26d30923a31da85d0e8ca8dc894b0e4d4f15[m
+Merge: 35a400d 9f58a79
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri Jun 24 13:40:57 2016 -0700
+
+    Merge pull request #26 from OfficeDev/alec's-markdown
+    
+    Alec's markdown
+
+[33mcommit 35a400de6a1a3e29f80536cc78eeb8a527467550[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Fri Jun 24 11:33:49 2016 -0700
+
+    1. Symbols Library AI adjusted the opacity of bullet number steps in setup guide artboards 2.Update the TabBar to the version submitted to MAXdev team in June 21st 2016; improved the text in the callouts, added instructional text in the taskpane for the Spec artboards; added the updated brand bar from the symbols library
+
+[33mcommit 2d5254dd93ee34e0f016a7fcc43d4f7776956159[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Fri Jun 24 11:00:02 2016 -0700
+
+    Adding Command Nav ai file
+
+[33mcommit 01265e5bd153369bf71fdd70f6f0df49f1da00c1[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Fri Jun 24 10:54:15 2016 -0700
+
+    Created Nav plus Command design spec
+
+[33mcommit 9f58a790d7f2b44c5c0f3f6f5f36e3d3a8a86402[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 15:17:28 2016 -0700
+
+    Add files via upload
+
+[33mcommit 47d818e5872fe40840b4b2cc2f9ded088f7f6c40[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 15:14:50 2016 -0700
+
+    Add files via upload
+
+[33mcommit 1481873cd6e0c8c9641c2dc1f7634a14ca2faf03[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 15:14:06 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 2f07d44655e75a0c8fc845094ff79cc0eb8faa01[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 15:06:14 2016 -0700
+
+    Rename Navigation - Hamburger to Navigation_Hamburger
+
+[33mcommit b90a85f022ff4950d80b85b19954b466961e91ad[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:56:56 2016 -0700
+
+    Create Navigation - Hamburger
+
+[33mcommit aaf97fdec9e1902ee39c15f54769e0a0c087ec0e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:53:33 2016 -0700
+
+    Update Back_Button.md
+
+[33mcommit d3c1cfea9e53fa5a34f47e8d26cc6284ed9c51be[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:52:52 2016 -0700
+
+    Create Nav.md
+
+[33mcommit fd3b44621a987907335e41894f7837ebcb8c2e12[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:43:50 2016 -0700
+
+    Delete d
+
+[33mcommit 0c5ca2195bef4593331779f70b3dd230aa1ca6c2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:43:40 2016 -0700
+
+    Delete delete
+
+[33mcommit bb087ec85b1e50c1bdd0e9195fa1f258091f6a7c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:43:28 2016 -0700
+
+    Delete d
+
+[33mcommit b073110c0eb6a7a967dc299cc495a898d6090296[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:43:18 2016 -0700
+
+    Delete d
+
+[33mcommit 7bf02fbdd9c959393db24399c4ff650c85764f3d[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:43:02 2016 -0700
+
+    Add files via upload
+
+[33mcommit fdc649f0a3f513ad6d2efca0e38d6ce44aed8a1c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:42:40 2016 -0700
+
+    Create d
+
+[33mcommit 9b0715b74f0805dc04102651f77ee01528ed1f11[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:42:16 2016 -0700
+
+    Delete d
+
+[33mcommit be468609cb33d7f2668f294ffca7626fbc57a494[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:42:11 2016 -0700
+
+    Delete Nav_Desktop Task Pane.png
+
+[33mcommit 1d63fc4d6f6eb61fceec3397d5bfc9d5bbefb34b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:42:07 2016 -0700
+
+    Delete Nav_Desktop Task Pane Callouts.png
+
+[33mcommit 02b872a9d13315dd7e98312ba9bb1affe029ae1f[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:42:01 2016 -0700
+
+    Delete Nav_Desktop Content Window.png
+
+[33mcommit 22608a5a7e263458beb8c4a8f491900e1f86081b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:41:56 2016 -0700
+
+    Delete Nav_Desktop Content Window Callouts.png
+
+[33mcommit aa3875229fabc5d68907e5a0e16532ce46c7adc2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:41:52 2016 -0700
+
+    Delete Nav-07.png
+
+[33mcommit 6eba60eeb72269a90f29b52df1d6af4ed7a84004[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:41:47 2016 -0700
+
+    Delete Nav-06.png
+
+[33mcommit 28c6bac38b4be04e2f1a3b3d457ebfb8878aa842[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:41:34 2016 -0700
+
+    Add files via upload
+
+[33mcommit 631bf97421fb39d1ef8d2ae205ceadfe99dd0c33[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:41:17 2016 -0700
+
+    Create d
+
+[33mcommit ca2a7d1039f1236be486e6b917c843904c881b17[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:40:35 2016 -0700
+
+    Add files via upload
+
+[33mcommit 08f44031d9ce97b9175ea8ddfe7563a2675eb644[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:40:12 2016 -0700
+
+    Create d
+
+[33mcommit db90e3e344fa0a96445380b5b7b204b195436cc7[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:35 2016 -0700
+
+    Delete Authentication_Flow_Title Page.png
+
+[33mcommit 6f36c3a09d9963099fbdfd437fa8c57d0317c858[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:27 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane.png
+
+[33mcommit 26cc0e9d3069b25b1d5c950d37df03a0c8241f37[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:22 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane copy.png
+
+[33mcommit 6f11a96c22ec46f61f4def76f3d8296e2568d5ac[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:17 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane copy 2.png
+
+[33mcommit cc9be8132037336388e6320ca3d8823526e2fe8f[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:12 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane Callouts.png
+
+[33mcommit d2d6227505ce71ee34817dc673e1914f437a861b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:07 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window.png
+
+[33mcommit 28275763031fd22a069adda4bd6f3bd5c3c3d28c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:39:01 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window copy.png
+
+[33mcommit 01bff293dceb86b3f90a36506b9ff80c7a7d0124[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:38:52 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window copy 2.png
+
+[33mcommit 486d43fc08714c80aab593fc4bed1bdb8bca8783[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:38:45 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window Callouts.png
+
+[33mcommit 7c31119b1ae9aa2f7e4378dcbccec08242f9fee9[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:38:12 2016 -0700
+
+    Add files via upload
+
+[33mcommit 3d3255852b2d7c4257127929f48ad445bead3c37[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:37:50 2016 -0700
+
+    Create d
+
+[33mcommit 585d75e3476ea422bf63da31aaf2ba6c19de380a[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:32:36 2016 -0700
+
+    Create Back_Button.md
+
+[33mcommit 981cf2aa0d031a5f672f66282a59e0e353196f17[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:24:59 2016 -0700
+
+    Add files via upload
+
+[33mcommit f77c4fa73a94e52398462ed4c5b82123808b88a5[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:24:01 2016 -0700
+
+    Create delete
+
+[33mcommit 23d48d351cdd39ead7d811bb679947ea80f79df9[m
+Merge: c0ddac4 fdad04c
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 14:11:22 2016 -0700
+
+    Merge pull request #25 from OfficeDev/master
+    
+    sync
+
+[33mcommit fdad04c88ea2aef9445c6c90254155e898269b7d[m
+Merge: 6c02054 c0ddac4
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Jun 23 13:39:37 2016 -0700
+
+    Merge pull request #23 from OfficeDev/alec's-markdown
+    
+    PNGs in markdown files will now link to the raw image file
+
+[33mcommit 6c0205444d866a7c0c96405af498af2185cc6b4b[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Tue Jun 21 15:05:12 2016 -0700
+
+    Updated the brand bar variants and the command bar in the Symbols library AI file
+
+[33mcommit b3e52e019055b1df67048fd1e65630d78a2104e7[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Tue Jun 21 12:08:03 2016 -0700
+
+    Updated Brand Bars in symbols library AI file and in Brand Bar PDF file
+
+[33mcommit a91fd0a72284c9a9432e4c18745040dd3e102e1d[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Mon Jun 13 10:29:08 2016 -0700
+
+    Adding TabBar pattern file to Patterns folder
+
+[33mcommit f069162cb61fc95586e0da5c979b6dd02621b74e[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Mon Jun 13 10:22:33 2016 -0700
+
+    Edited the cover for icon_production.PDF and added an icon_production.pdf to Patterns folder
+
+[33mcommit 42c183a0139eb0b1968ca4d122834e5204d7f32d[m
+Author: Daniel Galan <v-jmoasr@microsoft.com>
+Date:   Wed Jun 8 09:45:17 2016 -0700
+
+    Deleting strange aan33356 file
+
+[33mcommit 2ddd544a8e23b59c66166c9a0c563dce0dc1ecd9[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Mon Jun 6 15:03:36 2016 -0700
+
+    Updated StoreExperience PDFs (desktop screens) to new version of Add-in Store; made fonts consistent, deleted extra dropshadows, made LOGO icons consistent, added missing backgrounds (ipad)
+
+[33mcommit 15f3230086c690c76792bd0d42d246877441d111[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Mon Jun 6 14:45:16 2016 -0700
+
+    Updated the Add-in Store icon in all grey backgrounds to a better rendering
+
+[33mcommit e460a9531b67a9821bb8952080a9b3573919cfbf[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri Jun 3 15:55:00 2016 -0700
+
+    Adding AI source file for icon production template
+
+[33mcommit 659a9d6a4f30c92e3e5a83ea35714f3690728fd3[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri Jun 3 15:50:10 2016 -0700
+
+    aligned all icon production rectangles to pixel grid, improved callouts, change 'x' to 'px'; improved alignment of all elements; 16px square was missing magenta border
+
+[33mcommit 8569762dab750e59a6cb2e2be7361f12885520f9[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Wed Jun 1 14:10:30 2016 -0700
+
+    Added the store templates to the README markdown document
+
+[33mcommit 4b63d2182bcd37a84ea71652acef5ab5fc8adb80[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Mon May 23 16:17:23 2016 -0700
+
+    Uploading the Store Experience PDFs for Word PPT and Excel
+
+[33mcommit 9ed0a6cbd97eee282e8cc67ec185bde5f2a00508[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Mon May 23 10:14:10 2016 -0700
+
+    Updated the Graphical Logotype brand bar version in the callouts to match the script writing given to MAXdev on May20-2016 for Files BrandBarPDF and the AI source file
+
+[33mcommit ddc57a42229c632c2ad784751229bdf94e0bad16[m
+Author: Reeza Ali <reezaali@hotmail.com>
+Date:   Thu May 19 16:00:24 2016 -0700
+
+    Added link to brand bar code sample.
+
+[33mcommit e199742f6cece8ac0434d5eb62888f8cd0beabab[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Wed May 18 11:50:19 2016 -0700
+
+    Added an instrucional guide to open this symbols library from inside an illustrator file
+
+[33mcommit d2b4dab7efc57ee9483484a6cfa9a7213c413d2a[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 17 11:07:39 2016 -0700
+
+    1.Updated the visual design to match most recent version shared with MAXdev 2.Hid ghosted UI layer that creates undesired artifacts in github preview 3.Added Steps 2 & 3 as layers 4.Layer sort fixup
+
+[33mcommit ceec58cbee2e20c14f18a7490811caff6d0be33c[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 17 10:57:41 2016 -0700
+
+    1.Updated the visual design to match most recent version shared with MAXdev 2.Hid ghosted UI layer that creates undesired artifacts in github preview 3.Added Steps 2 & 3 as layers 4.Layer sort fixup
+
+[33mcommit c0ddac4810d0d248afc8a401c01da95dbb5c66da[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 17 08:42:33 2016 -0700
+
+    Update Notification_Inline_Message.md
+
+[33mcommit 4dfaa37a9f5b07afd07a7fadc8d921546e890dd5[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 17 08:25:18 2016 -0700
+
+    Fixed a bug on the PPTGreyBack.AI file that showed disfigured add-in store logo
+
+[33mcommit 0feb4993b357b55dfc406b2e3da629d199cdbe22[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:40:57 2016 -0700
+
+    Update Notification_Toast.md
+
+[33mcommit 7f6ce79689b756d04a4b66a3c781857e02f8564d[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:40:30 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit a1364bbeb85c28ebb0b2da8c64c5c1d9ac9fbfc6[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:39:53 2016 -0700
+
+    Update Notification_MessageBanner.md
+
+[33mcommit 528901d028b5287afe2356345ba76c31e6b2a89c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:39:19 2016 -0700
+
+    Update Notification_Inline_Message.md
+
+[33mcommit 1dcd2d5f2d260f083345d596227bba42c60f70c0[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:38:47 2016 -0700
+
+    Update FirstRun_VideoPlacemat.md
+
+[33mcommit 98165f263de8b189e9e972145cd8f96e70d822dc[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:38:19 2016 -0700
+
+    Update FirstRun_ValuePlacemat.md
+
+[33mcommit 323ecab4f7b3653cac369ba571ec2268dba67858[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:37:55 2016 -0700
+
+    Update FirstRun_TrialVersion.md
+
+[33mcommit 04a6d8432bf0524c0edf5443258920dc85fe2315[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:37:33 2016 -0700
+
+    Update FirstRun_StepsToStart.md
+
+[33mcommit 8be78b35ff36e2aec4491df029065ced8708931c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:37:10 2016 -0700
+
+    Update FirstRun_PagingPanel.md
+
+[33mcommit 9883758a88cc402adddb1facfb1111091cb93ed2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:36:34 2016 -0700
+
+    Update Embedded_Dialog.md
+
+[33mcommit e48b91770cc986ccbb1dec762a5ad50e4df326b3[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:36:02 2016 -0700
+
+    Update Brand_Splashscreen.md
+
+[33mcommit 2bbe32180597725852011fdb7ee7d5fe9ca2ac24[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:35:37 2016 -0700
+
+    Update Brand_Bar.md
+
+[33mcommit e2aa8097db358ae27cc32f4729b2ad1d09962d15[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:35:09 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 0514caaaccdcdcd67d768c36506c0abab7dfd44b[m
+Merge: 504a9bb 5ef6088
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Mon May 16 16:30:14 2016 -0700
+
+    Merge pull request #22 from OfficeDev/master
+    
+    Getting changes from master
+
+[33mcommit 5ef608897a4eaf2ac60d013050e5a70aed6f75d3[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Mon May 16 11:32:30 2016 -0700
+
+    Update README.md
+
+[33mcommit 0f2884d8882ce02c3658ce2cfe3f3ba6a7b8896a[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Mon May 16 11:27:32 2016 -0700
+
+    Pattern files have markdown files.
+
+[33mcommit 20121b1e13ac248b50481a0a73349c17c0f9e3fd[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Mon May 16 11:14:00 2016 -0700
+
+    Update for added markdown files
+
+[33mcommit 6d31839a9dc9bb1cb89b815506634814371bc930[m
+Merge: d4be47b 504a9bb
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Mon May 16 11:09:53 2016 -0700
+
+    Merge pull request #21 from OfficeDev/alec's-markdown
+    
+    Alec's markdown updates to incorporate summary pages for each pattern.
+
+[33mcommit 504a9bb0bd00dfadc67aac279dd149ef414c176b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:40:15 2016 -0700
+
+    Delete Notification_error.ai
+
+[33mcommit c1ff10784020b44df315cb3bbc184d11ce748c15[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:27:41 2016 -0700
+
+    Add files via upload
+
+[33mcommit 6c5b429d0d534c1b9605eb4a77badc991085f2a8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:21:36 2016 -0700
+
+    Create delete
+
+[33mcommit 04d1c3a482737baa82c45bb80cebd7c1fbf8ccc2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:59 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_iPad Task Pane.png
+
+[33mcommit 867dbf5ba9f50efb0999017e07353095200cdece[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:54 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_iPad Content Window.png
+
+[33mcommit ed12af996d64c4b066b25da14ffe66288ad9bbb3[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:50 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_Desktop Task Pane.png
+
+[33mcommit c3db1ea607fa1f73f54371f4540cf30f6b6eb299[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:45 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_Desktop Task Pane Callouts.png
+
+[33mcommit 12348ff2896bc6afa73b78b6d3518116896a0f84[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:41 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_Desktop Content Window.png
+
+[33mcommit 1fe3e990586aca285652ff958b048d4ceb8a9335[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:20:37 2016 -0700
+
+    Delete FirstRun_VideoPlacemat_Desktop Content Window Callouts.png
+
+[33mcommit 1c56712fa7e5de44b8f58cd72fdabd895b3eedff[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Fri May 13 10:11:22 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit 8cbd8dcd073fcf2a4d7366a8e3a5e4722bfeab70[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:32:54 2016 -0700
+
+    Update Notification_Toast.md
+
+[33mcommit c301fa9676baa3ec7aa153eeb09df11c672c913b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:32:16 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit f1aa097b9c455726621a0cc3617356817e78ebad[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:31:26 2016 -0700
+
+    Update Notification_MessageBanner.md
+
+[33mcommit 8b3353d8b177aaf7137339eaa65842631514a616[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:30:52 2016 -0700
+
+    Update Notification_MessageBanner.md
+
+[33mcommit 3224481a5c7fd4a59d7bb1452b4e4eed2daf909b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:30:14 2016 -0700
+
+    Update Notification_Inline_Message.md
+
+[33mcommit a4db747e027a59958c7b00c149e1a55a55a2a8ef[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:29:29 2016 -0700
+
+    Update FirstRun_VideoPlacemat.md
+
+[33mcommit 19d1b08f2b5158a8ed947b28bfa38d8041909c6a[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:28:56 2016 -0700
+
+    Update FirstRun_ValuePlacemat.md
+
+[33mcommit 24fff18bf8cf938c9ffc9f923a26df306ae4f8ad[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:28:20 2016 -0700
+
+    Update FirstRun_TrialVersion.md
+
+[33mcommit 71862542e761a1435bc74f4093a4751bdca845d4[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:27:33 2016 -0700
+
+    Update FirstRun_StepsToStart.md
+
+[33mcommit 8411df8566af9bc6289981bea215745ad7d32348[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:25:35 2016 -0700
+
+    Update FirstRun_PagingPanel.md
+
+[33mcommit dcef4d0aa9de98c5336e06a8db3b74c10253a215[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:24:55 2016 -0700
+
+    Update Embedded_Dialog.md
+
+[33mcommit 2d1c0153ba5c827599d981fa4bb594b249a12c1f[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:24:16 2016 -0700
+
+    Update Brand_Splashscreen.md
+
+[33mcommit 7f418bea9dd6979a36fbccc7a3681e4460aef1ed[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:23:11 2016 -0700
+
+    Update Brand_Bar.md
+
+[33mcommit 52f261626aef05b47a732fcec82f18f4b82f1ba9[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:22:17 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 99026989cd1b242163c61707123ce0dd9682bfd6[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:21:47 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 2644a0963d2fc554865d05e64265b45c0f15f5bd[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 16:14:32 2016 -0700
+
+    move PNGs folder to patterns folder and renamed it to Assets
+
+[33mcommit 17a330d2b2a14187a4799bbc0645a98dfd4c0718[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 15:41:00 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit f8276717e50cc8ed8b557c5665dd821a9605aeba[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 15:38:02 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 660c6ae75abafa15cfc633f5d697de6d2f94831d[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 15:37:21 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit a05654bafaa422f50d27deb578cb886ae294c9ca[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 15:36:26 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit f590b2101e3c501198b0c565bb2b71e1dd8dab5f[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu May 12 15:14:39 2016 -0700
+
+    Add files via upload
+
+[33mcommit 98084034243e1258ce8e77d86f7ac744459a6c12[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:43 2016 -0700
+
+    Delete delete
+
+[33mcommit 52274ab9164eb0e85cb8a324bd92777bf40dfdfe[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:34 2016 -0700
+
+    Delete delete
+
+[33mcommit 3f06027991bfd153010b8be2e4163aea3859c8d2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:25 2016 -0700
+
+    Delete d
+
+[33mcommit ee6a15b15eaf8984679f00c251e8e59a738e7c78[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:16 2016 -0700
+
+    Delete delete
+
+[33mcommit b8e66fbc3c758a97f76fac01f3ff5d5ec94037be[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:08 2016 -0700
+
+    Delete delete
+
+[33mcommit 3c912e0520741488a81037768c31be35b2838133[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:56:00 2016 -0700
+
+    Delete delete
+
+[33mcommit 6ed85bd55cf619a62c1b1a66b0b1834c0ce283b6[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:51 2016 -0700
+
+    Delete delete
+
+[33mcommit 8bd5037b0943d2af6d762a432817455292e40135[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:41 2016 -0700
+
+    Delete delete
+
+[33mcommit 5f1cb50093ec633b17b625db7207f3d31c623a2c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:33 2016 -0700
+
+    Delete delete
+
+[33mcommit 944153528d6bd3c33e466e21cfac1a57d1a80017[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:25 2016 -0700
+
+    Delete delete
+
+[33mcommit 73e53d8e0b4578b0d6cbb510e8f268f4e127b2dc[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:16 2016 -0700
+
+    Delete delete
+
+[33mcommit 8da9a4aa5edad028ced46f71ac6c333309952a39[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:07 2016 -0700
+
+    Delete delete
+
+[33mcommit 306ce7f2dd8942f714ed21692be401ad4a2822aa[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:55:00 2016 -0700
+
+    Delete Authentication_Flow_Title Page.png
+
+[33mcommit 66ab076bc9953bffb02bf27d3406036d79b15f63[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:55 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane.png
+
+[33mcommit 2f484fe787b317c4564b9c5815545fc05c4252e7[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:51 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane copy.png
+
+[33mcommit 8341f719154977ee3ce66f80d3ff68e78399b198[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:46 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane copy 2.png
+
+[33mcommit 7c9c209463cf0808301f9d8b59adfc30fbe9a94c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:42 2016 -0700
+
+    Delete Authentication_Flow_Desktop Task Pane Callouts.png
+
+[33mcommit 34206bf8f09e1efef819c2647be81d3f686e75d5[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:38 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window.png
+
+[33mcommit 5c694a1c1c9efbdf0c97ca7f89565fb754043fa8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:33 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window copy.png
+
+[33mcommit 255d36429d743dde29ea63c0e0d743e1d518c329[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:28 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window copy 2.png
+
+[33mcommit c187a6612f8cfb67e0e4b049c4f12dd9909d745c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:54:23 2016 -0700
+
+    Delete Authentication_Flow_Desktop Content Window Callouts.png
+
+[33mcommit 65c70ec18e16ce9e00f8f88ff4e336c13f897036[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:53:05 2016 -0700
+
+    Delete delete
+
+[33mcommit 9308403aeb6b381fd01e1d3b30a7b83e4233777c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:52:53 2016 -0700
+
+    Delete delete
+
+[33mcommit e0917b6d132339c989b914cbddabf45fb955747e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:51:00 2016 -0700
+
+    Delete Notification_toast.pdf
+
+[33mcommit b9368999dd28af7c85eae8881cbf2a56e13bc3ae[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:51 2016 -0700
+
+    Delete Notification_progress.pdf
+
+[33mcommit 3fd90131de7d8a080c9206eb4e0f55e00d50eb91[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:45 2016 -0700
+
+    Delete Notification_messagebanner.pdf
+
+[33mcommit e9afabc3b28e05e5eff57d678d6b6a6a98356410[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:38 2016 -0700
+
+    Delete Notification_Inline_Message.pdf
+
+[33mcommit c65e22c5ed9b0dd781c1dbe72e3d79240f52cf88[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:29 2016 -0700
+
+    Delete FirstRun_VideoPlacemat.pdf
+
+[33mcommit 5707a80f5f9e10bf8102643266177cbef9db2bd9[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:23 2016 -0700
+
+    Delete FirstRun_ValuePlacemat.pdf
+
+[33mcommit c59fd7817185b551e12dc5973c5148aea6a72655[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:15 2016 -0700
+
+    Delete FirstRun_TrialVersion.pdf
+
+[33mcommit 2146359fbd31a7914c9d6db917a8efb2a0560f29[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:09 2016 -0700
+
+    Delete FirstRun_StepsToStart.pdf
+
+[33mcommit 24a97d10720543a2db21a130a36a017caf3c4f66[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:50:04 2016 -0700
+
+    Delete FirstRun_PagingPanel.pdf
+
+[33mcommit 34d5de13e0d456287d5df7f1d141f94e7764b2b8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:49:43 2016 -0700
+
+    Delete Embedded_Dialog.pdf
+
+[33mcommit 2d9281668903593e3952060c1f14f1dfec618dfa[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:49:35 2016 -0700
+
+    Delete Brand_splashscreen.pdf
+
+[33mcommit 4a3970f94861c88be7bf3c1880f77527f8997d3b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:49:30 2016 -0700
+
+    Delete Brand_bar.pdf
+
+[33mcommit fbaadc700022f5693d17d1410bd7e2794f079437[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:49:20 2016 -0700
+
+    Delete Authentication_Flow.pdf
+
+[33mcommit 629b28250375c1c3e13a2a1ac192375205f99b1e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:36:42 2016 -0700
+
+    Update Notification_Toast.md
+
+[33mcommit 453ee56f4430c5a03167ba3ce094809db90a31ce[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:36:03 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit 9a599a50098b863abb77ed8053932e2cd4a46146[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:35:31 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit 5ce936f1089725f82f8a866ffd6fc31749528f41[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:35:14 2016 -0700
+
+    Update Notification_MessageBanner.md
+
+[33mcommit 340a25c02810e8d3a06e4354a6006d990ff52874[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:34:55 2016 -0700
+
+    Update Notification_Inline_Message.md
+
+[33mcommit 541759a11b3c15d9c96261411e7a9eb2adc22e46[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:34:29 2016 -0700
+
+    Update Embedded_Dialog.md
+
+[33mcommit 2e64e61bd4d33775ace4e6718888c372cff8e916[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:33:49 2016 -0700
+
+    Update FirstRun_TrialVersion.md
+
+[33mcommit 7673e2df756e5773b8d046b3aa9d54a064a5b947[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:32:37 2016 -0700
+
+    Update FirstRun_TrialVersion.md
+
+[33mcommit 867c68abc7bacec4ebc22676169c49154c5f1bfc[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:30:56 2016 -0700
+
+    Create FirstRun_TrialVersion.md
+
+[33mcommit f98ad21e7bc999213c4d3fafacb8009cdfdaba77[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:17:18 2016 -0700
+
+    Update FirstRun_PagingPanel.md
+
+[33mcommit 69e30b69762bce3f3a2a355ffc3d30129a153aed[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:16:35 2016 -0700
+
+    Update FirstRun_VideoPlacemat.md
+
+[33mcommit 4c413c0b90933240810110533f9ca0af3c40cdf4[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:16:09 2016 -0700
+
+    Update FirstRun_ValuePlacemat.md
+
+[33mcommit b918a455a4c058a15427e9d05dded7f564bb5eda[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:15:31 2016 -0700
+
+    Update FirstRun_StepsToStart.md
+
+[33mcommit 71dd63d030449a22517dfbbf9850df79b019f134[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:13:18 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 54c12fc59b7b569af6a9cc60e60655034de5ebe0[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:12:44 2016 -0700
+
+    Update Authentication_Flow.md
+
+[33mcommit 3231bd96b13e53d6dd26af1a132e26021dfb43cf[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:10:09 2016 -0700
+
+    Add files via upload
+
+[33mcommit 7208d8a3da9e49dfc91625d6c5fc08c90cb878bf[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:09:45 2016 -0700
+
+    Rename de to delete
+
+[33mcommit dccc00d5030c56484a2a5eb6a8effd761eac0651[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 13:09:34 2016 -0700
+
+    Create de
+
+[33mcommit 91cc45474e08776c0eabb5b7602a1e96bfb0c2ba[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 10:07:51 2016 -0700
+
+    Create Authentication_Flow.md
+
+[33mcommit 8f18eb02ef36acb09d21cba7bba2bd29802489a3[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 10:04:51 2016 -0700
+
+    Add files via upload
+
+[33mcommit 245ec31360424162760000f86f025bcabc506f43[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 10:01:47 2016 -0700
+
+    Create delete
+
+[33mcommit 519918a6e64aba6c885385bc542cdb0d9295d076[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:59:54 2016 -0700
+
+    Create Brand_Bar.md
+
+[33mcommit 7f8a74b1cd8f0f61396029722ec813cf0c889be0[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:56:27 2016 -0700
+
+    Add files via upload
+
+[33mcommit b0c2064174b9a97542b2702997045ad915af5755[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:56:11 2016 -0700
+
+    Create delete
+
+[33mcommit e8d24cd37ed232d3a927ec50fee9b104126425cf[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:55:02 2016 -0700
+
+    Create Brand_Splashscreen.md
+
+[33mcommit 895871a88c1cb6285d13f2e39205e215ee96bc2e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:51:03 2016 -0700
+
+    Add files via upload
+
+[33mcommit 579656d8ca111846633cc094c99e5d9fe0c27fd4[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed May 11 09:50:46 2016 -0700
+
+    Create delete
+
+[33mcommit fcd01724cd7ae7a2880cc20f0510666672b699a4[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed May 11 09:31:26 2016 -0700
+
+    Added Brand Splashscreen PNGs
+
+[33mcommit 006a419bf7bed7c6c50f072d9b03ded696988efc[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed May 11 09:16:18 2016 -0700
+
+    Adding Brand Bar PNGs
+
+[33mcommit 9c1a75e24c23c488defa369acbe5a2a6ef9dec6d[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Wed May 11 09:10:53 2016 -0700
+
+    Adding authentication flow pngs
+
+[33mcommit 8ce6f3153756c946a1f80447bf73c785578e99b7[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 17:06:27 2016 -0700
+
+    Create FirstRun_PagingPanel.md
+
+[33mcommit 68017ab7f59d4474d817d70c49c507838be17e4b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 17:02:59 2016 -0700
+
+    Rename FirstRun_StepsToStart to FirstRun_StepsToStart.md
+
+[33mcommit 76fc15ded6ccde00412880731f820396fc42ae38[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 17:02:48 2016 -0700
+
+    Update FirstRun_StepsToStart
+
+[33mcommit cb52e239b4bad71f2527cecf30f14e6f1adf8465[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:59:44 2016 -0700
+
+    Create FirstRun_StepsToStart
+
+[33mcommit 0524c8637fc7bfad64f1839a141fa14f86045216[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:59:04 2016 -0700
+
+    Add files via upload
+
+[33mcommit 516e55e1e975462a447b72cc418e49306ee0e817[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:58:51 2016 -0700
+
+    Create delete
+
+[33mcommit c38a9f011dca1f0e31d3f06e7eac90d2bde4a976[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:49:24 2016 -0700
+
+    Update Notification_Inline_Message.md
+
+[33mcommit a9b4c57bb95a1b0141b3d30234cd2d5be8e0027e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:46:04 2016 -0700
+
+    Add files via upload
+
+[33mcommit e426dbc16600d0ad78e9eb7da61ac25e01850588[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:45:20 2016 -0700
+
+    Create delete
+
+[33mcommit 6c51e1e7b5b29f74ad5be2f8b7ebf40bce7ab2f4[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:38:54 2016 -0700
+
+    Add files via upload
+
+[33mcommit 697bcd68b09b9f02b2be388a2a5495abf92a4542[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:38:36 2016 -0700
+
+    Create delete
+
+[33mcommit 9c8061a377dec3c9b3ab9b4621d0282e4519f709[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:36:52 2016 -0700
+
+    Create Embedded_Dialog.md
+
+[33mcommit 15297f965e159c2d11e8a1c229436b667ec57c5d[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:33:14 2016 -0700
+
+    Add files via upload
+
+[33mcommit 9bbb2ecb37494c4f679693f014923db8856c3f3c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:32:55 2016 -0700
+
+    Create delete
+
+[33mcommit bbb0018a45b7427d4453639c19581589d5bb2b96[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:28:56 2016 -0700
+
+    Create FirstRun_ValuePlacemat.md
+
+[33mcommit 0bcc2e54066126ddb93c47841bd26811c9e864d0[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:25:06 2016 -0700
+
+    Add files via upload
+
+[33mcommit cd6bddd8160a01a40e9b42cbf8028551af6152e4[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:24:51 2016 -0700
+
+    Create delete
+
+[33mcommit 479695a408aa67f2f025e00c7e407f599f3fc9a8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:20:22 2016 -0700
+
+    Rename FirstRun_VideoPlacemat to FirstRun_VideoPlacemat.md
+
+[33mcommit 042358ef594e404425f93b8e06318112dfb34195[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:20:06 2016 -0700
+
+    Create FirstRun_VideoPlacemat
+
+[33mcommit 4d2cb306780a3f34727045217cbaccc3eb9c1f82[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:16:39 2016 -0700
+
+    Add files via upload
+
+[33mcommit 31f0e10540247998b59fc45727769f156be2ea50[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:16:21 2016 -0700
+
+    Create delete
+
+[33mcommit a728f00b0c933f3515bbf8ac75eacc6dabc88174[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 16:11:00 2016 -0700
+
+    Create Notification_Inline_Message.md
+
+[33mcommit 82b039bcc67725153e3321ab7a39cfd2a55b462b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:56:21 2016 -0700
+
+    Add files via upload
+
+[33mcommit cb0ec6e959e4803dd2448f2e946cb01eb318cc8a[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:56:07 2016 -0700
+
+    Create delete
+
+[33mcommit e6f128fb07e7d36b06869437fd2241a01870dfde[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:53:07 2016 -0700
+
+    Rename Notification_MessageBanner to Notification_MessageBanner.md
+
+[33mcommit 2413383a6f2ea13f07c6667f2d69766c3999a696[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:52:25 2016 -0700
+
+    Create Notification_MessageBanner
+
+[33mcommit 53681839b0b5877ad0488810d58ce99b2d7115f1[m
+Author: Chris Lockwood <chris.lockwood11@gmail.com>
+Date:   Tue May 10 15:50:17 2016 -0700
+
+    Adding Embedded Dialog pngs
+
+[33mcommit a252d84038abbf44ec3216a44751369e71917759[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:43:50 2016 -0700
+
+    Add files via upload
+
+[33mcommit 4eabbc76eb7e79e55fcf57aaa3dfb23a778af56a[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:43:31 2016 -0700
+
+    Create delete
+
+[33mcommit 68707e27ac3720c96d2032d338a0a32a88a7e295[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:37:13 2016 -0700
+
+    Add files via upload
+
+[33mcommit 596ec5dd4d5e9b9d40e76945618f200425b0844b[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:57 2016 -0700
+
+    Delete Notification_toast_iPad Task Pane.png
+
+[33mcommit 73210b01b036e8923443ab7267a91113f41e9d35[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:52 2016 -0700
+
+    Delete Notification_toast_iPad Content Window.png
+
+[33mcommit 1a43a0471f7806014eb30ed821fd2ee23d4b851f[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:48 2016 -0700
+
+    Delete Notification_toast_Desktop Task Pane.png
+
+[33mcommit 7c4e6e212218fe74067bacca9982b651635cf6cb[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:43 2016 -0700
+
+    Delete Notification_toast_Desktop Task Pane Callouts.png
+
+[33mcommit f66f29084b2272dc0c6c4f4ba32f4c85e4f8d06e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:38 2016 -0700
+
+    Delete Notification_toast_Desktop Content Window.png
+
+[33mcommit 3bde579e63f5fca4536e182bd43eedfdfd06ed33[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:36:33 2016 -0700
+
+    Delete Notification_toast_Desktop Content Window Callouts.png
+
+[33mcommit 7f968a25de383ef31991020511566c9b09f51983[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:34:45 2016 -0700
+
+    Rename Nnotification_Toast.md to Notification_Toast.md
+
+[33mcommit 8c3c7cbd640d6555238e710197b9e06cd9053590[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:34:17 2016 -0700
+
+    Create Nnotification_Toast.md
+
+[33mcommit 1efd4ce1aacdcb97182da17a0091f2148b4ecb3c[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:27:56 2016 -0700
+
+    Add files via upload
+
+[33mcommit 75790b9a5bcf1b639fdf200e3d90f812b232aff2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:27:32 2016 -0700
+
+    Create delete
+
+[33mcommit af15c9ea2307679d0484e17b8b6aa6ad1bb483a8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:26:38 2016 -0700
+
+    Update Notification_Progress.md
+
+[33mcommit d658cd06f700e039bf73f26ab707fef46a5f145a[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:25:18 2016 -0700
+
+    Create Notification_Progress.md
+
+[33mcommit 6915060c9b2a62be9a6d5ec02070b88a09679e38[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:18:07 2016 -0700
+
+    Add files via upload
+
+[33mcommit 5ba8dfb1d379e00791c18abd148defedf5dd1c81[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue May 10 15:17:50 2016 -0700
+
+    Create d
+
+[33mcommit d4be47b01c353709f1ce5d1e40df84b3685b56c1[m
+Author: Reeza Ali <reezaali@hotmail.com>
+Date:   Fri May 6 17:42:24 2016 -0700
+
+    added UX to title
+
+[33mcommit d595ca04ac096a59f068343e1949b1a2d8df4518[m
+Merge: 5e7a596 51e148b
+Author: Reeza Ali <reezaali@hotmail.com>
+Date:   Fri May 6 17:38:32 2016 -0700
+
+    added links to code repo
+
+[33mcommit 5e7a596ff4359e23aed9c74d80dca7c1dae84d0f[m
+Author: Reeza Ali <reezaali@hotmail.com>
+Date:   Fri May 6 17:31:43 2016 -0700
+
+    Added links to code repo
+
+[33mcommit 51e148bdc6361508565b12997e0775971e72354e[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri May 6 16:24:42 2016 -0700
+
+    Title update
+
+[33mcommit 9fe834339da25a97b452eaa378bfcd65991e6b9e[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri May 6 14:00:12 2016 -0700
+
+    hid the textbox rendering in the slide of iPad screen
+
+[33mcommit 4a35cf237bf84a4caa8a618ef52146cf70e2876e[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri May 6 13:01:42 2016 -0700
+
+    Updated the background UI to instructional text, added graphical reference to alignment, simplified and concise callouts and variant captions, brand bar iconText and graphic are now included
+
+[33mcommit 459bee549b61589c32d242f4e3e1a126145d9608[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Thu May 5 15:00:15 2016 -0700
+
+    Updated the variant boxes, placeholding UI, callouts to reflectchanges given to MAXdev v1
+
+[33mcommit ca89c5be775df85bb8aaf49bde0995b0b9721950[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 3 23:13:41 2016 -0700
+
+    Updated callouts, variant boxes, and look of inline messages. added icons on the three types, improved copy articulation
+
+[33mcommit 628a913246fa3247c9a40e302983c6ade5bcc855[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 3 23:08:55 2016 -0700
+
+    Centered the video caption to reflect changes done on the HTML sample with MAXdev team
+
+[33mcommit a37aaf062c91f66e77889b222738d60b1af17489[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Tue May 3 23:03:24 2016 -0700
+
+    InlineMessage.PDF revised to update callouts and add-in description of all three types of inline message, added icons
+
+[33mcommit 50ecdcd17fe383019eb7b0dad3788393f9ba2702[m
+Merge: 10b837b e1a1878
+Author: Daniel Galán <v-jmoasr@microsoft.com>
+Date:   Wed Apr 27 10:39:20 2016 -0700
+
+    Merge pull request #15 from OfficeDev/dut
+    
+    Changed brand bar to previous style without burger and added the gear…
+
+[33mcommit e1a18787d17d0bffb2e83d9fd06fbfefd55fdef5[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Wed Apr 27 10:35:09 2016 -0700
+
+    Changed brand bar to previous style without burger and added the gear to the brand barback
+
+[33mcommit 10b837b105350f085f5c9fbb3cecef1fdbfff919[m
+Merge: c12cb0d 35f8bd2
+Author: Daniel Galán <v-jmoasr@microsoft.com>
+Date:   Wed Apr 27 08:53:24 2016 -0700
+
+    Merge pull request #13 from OfficeDev/dut
+    
+    Added the BasicLayout template to Helpful Templates
+
+[33mcommit 35f8bd29ea0d39ee63d4aa0e9adeacd589a2965f[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Wed Apr 27 08:41:21 2016 -0700
+
+    Added the BasicLayout template to Helpful Templates
+
+[33mcommit c12cb0dcbab899e868d143f4697ac85efaf2d64d[m
+Merge: 5085370 77f2561
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Apr 22 14:35:57 2016 -0700
+
+    Merge pull request #12 from OfficeDev/dut
+    
+    Updated the FRE Trial to match newest version, & added an ai file for…
+
+[33mcommit 77f25619f38c8f44e8321e5b93925d6de2d0db4c[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri Apr 22 13:56:35 2016 -0700
+
+    Added the new version of icon production to Helpful Templates and to Patterns folder and their AI files in source files
+
+[33mcommit 28b0fd7bf8873ffed40fea5654d6017f7cf9dfb7[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Fri Apr 22 13:34:58 2016 -0700
+
+    Updated the FRE Trial to match newest version, & added an ai file for trial
+
+[33mcommit 50853709d1455fe3ac3f8e14246889272a3f5425[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 14 15:54:23 2016 -0700
+
+    Update README.md
+
+[33mcommit eab0815a8d4f99ea9a58771647b5baf6a23db0da[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 14 15:44:17 2016 -0700
+
+    A number of updates: 1) auth flow, fixed order of pages in pdf 2) Notfication inlin message - updated icon callout to include class 3) embdded dialog - corrected dimensions of icon 4) notification toast - updated icon callouts to include class. Changed to correct x icon 5) firt run - corrected location of callouts in the taskpane. Grouped callouts together in one layer. fixed lables to be consistent with other labels. Added more specific information about background colors.
+
+[33mcommit 1cfa56c0d5d2247030ad3014a8d903a7f57cb37b[m
+Merge: 36d2c4c 8403410
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 14 13:18:43 2016 -0700
+
+    Updated cover of base typeramp file to match html version
+    
+    Updated cover of base type-ramp file to match HTML version. This should enable better visual reference of styles, intention of styles and class names.
+
+[33mcommit 84034101d37241dbafea2ebe5212e1234739de90[m
+Author: danielmgalan <v-jmoasr@microsoft.com>
+Date:   Wed Apr 13 10:45:25 2016 -0700
+
+    updated cover to match html version
+
+[33mcommit 36d2c4cfd2960ef2b6e10d5f35eea94e724d8ebd[m
+Author: Daniel Galán <v-jmoasr@microsoft.com>
+Date:   Tue Apr 12 07:58:32 2016 -0700
+
+    Added size 28pt and rearranged the type ramp on the cover page
+
+[33mcommit 4aabdcc52961a853d1f74bbe351146dc923e99df[m
+Author: Daniel Galán <v-jmoasr@microsoft.com>
+Date:   Tue Apr 12 07:56:10 2016 -0700
+
+    v1 of the FRE Trial
+
+[33mcommit b8980a318a57a26c8e015f37bc29b70235ed2214[m
+Author: Daniel Galán <v-jmoasr@microsoft.com>
+Date:   Tue Apr 12 07:49:44 2016 -0700
+
+    Added all four theme background colors,
+    added hex values,
+    added callouts to both Icon_production.pdf's
+
+[33mcommit 6fd8a0699b288047cabf9c4740fa8c80ceb9f7ed[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 7 17:28:31 2016 -0700
+
+    Added html version of the base typography ramp.
+
+[33mcommit d7767ff8ed5ffae4324fcb2e796390a98e41cf81[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 7 17:17:37 2016 -0700
+
+    Update README.md
+    
+    Added details to the change log.
+
+[33mcommit e369477254d805e68181d4e07d1f415e0b4ee4c6[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 7 17:14:06 2016 -0700
+
+    Update README.md
+    
+    Minor updates to links
+
+[33mcommit ecc09ad568f21d80c784047f785b97537a287303[m
+Merge: 06da050 d38bb72
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Apr 7 14:40:43 2016 -0700
+
+    Merge pull request #8 from OfficeDev/Alec's-ongoing-changes
+    
+    Fixed Auth and Embedded Dialog
+
+[33mcommit d38bb7255de8887198941cfee5e5b1b35ce35948[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:31:33 2016 -0700
+
+    Delete Embedded_dialog.ai
+
+[33mcommit 881ff750280cf09b1abee2a43eb5a336e30a4186[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:31:19 2016 -0700
+
+    Delete Authentication_flow.ai
+
+[33mcommit ade6313e25187dc498d8cf6e06c9ab734c437dc2[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:30:59 2016 -0700
+
+    Fixed Auth Flow and Embedded Dialog
+    
+    Auth:
+    - added usage guideline "dedicated sign in screens are optional..."
+    - removed reference to browser in message banner
+    - pop up window looks like both dialog and browser window
+    - added usage guideline to indicate pop up window could be browser window or a dialog
+    
+    Embedded Dialog:
+    - added usage guideline for when the content-window is smaller than the dialog
+    - increased spacing between callouts
+
+[33mcommit 70ff046992f72446f0117259be3d3ecc861a6593[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:30:21 2016 -0700
+
+    Delete Embedded_dialog.pdf
+
+[33mcommit fe3d2703c0bc20f93a8f984d8b4a78d33c217fbf[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:30:14 2016 -0700
+
+    Delete Authentication_flow.pdf
+
+[33mcommit 085cf95e6c527252bab6c3b0c5b322b48751bd4e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:29:47 2016 -0700
+
+    Added files via upload
+
+[33mcommit 889e022ffba6bb75e3c3488e86c722be5da94deb[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:29:26 2016 -0700
+
+    Delete Embedded_Dialog.ai
+
+[33mcommit a70f7ea8f232b2c5ffdaab97b604930b2cc2c604[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:29:18 2016 -0700
+
+    Delete Authentication_Flow.ai
+
+[33mcommit b451394cd0bff0852a9630ea0262e70185b928e6[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:28:46 2016 -0700
+
+    Fixed Auth Flow and Embedded Dialog
+    
+    Auth:
+    - added usage guideline "dedicated sign in screens are optional..."
+    - removed reference to browser in message banner
+    - pop up window looks like both dialog and browser window
+    - added usage guideline to indicate pop up window could be browser window or a dialog
+    
+    Embedded Dialog:
+    - added usage guideline for when the content-window is smaller than the dialog
+    - increased spacing between callouts
+
+[33mcommit 3bae876f9d6aaeff140a7fdaf4547d6421a67be3[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:27:47 2016 -0700
+
+    Delete Embedded_Dialog.pdf
+
+[33mcommit b0214dc3fccc74ee7666ee29705b71f52eb7c56e[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:27:41 2016 -0700
+
+    Delete Embedded_Dialog.ai
+
+[33mcommit 8207f1896b04a8ff249f632eda0d3ba9e65c2dca[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:27:35 2016 -0700
+
+    Delete Authentication_Flow.pdf
+
+[33mcommit 294b1c04fd72f241b34488e97a40e074c098f0a8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:27:24 2016 -0700
+
+    Delete Authentication_Flow.ai
+
+[33mcommit 4bf915e9583d2ade69817907efaf30e07a8f8638[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 16:24:56 2016 -0700
+
+    Fixed Auth Flow and Embedded Dialog
+    
+    Auth:
+    - added usage guideline "dedicated sign in screens are optional..."
+    - removed reference to browser in message banner
+    - pop up window looks like both dialog and browser window
+    - added usage guideline to indicate pop up window could be browser window or a dialog
+    
+    Embedded Dialog:
+    - added usage guideline for when the content-window is smaller than the dialog
+    - increased spacing between callouts
+
+[33mcommit ffee50121edf72f0695bc7f389d0a929f825b67d[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 15:48:07 2016 -0700
+
+    Revert "Fixed Auth and Embedded Dialog "
+    
+    This reverts commit 9eae7fff4f61a16a2f7b738172cfb480a69ebeec.
+
+[33mcommit 9eae7fff4f61a16a2f7b738172cfb480a69ebeec[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Apr 6 15:04:21 2016 -0700
+
+    Fixed Auth and Embedded Dialog
+    
+    Auth:
+    - added usage guideline "dedicated sign in screens are optional..."
+    - removed reference to browser in message banner
+    - pop up window looks like both dialog and browser window
+    - added usage guideline to indicate pop up window could be browser window or a dialog
+    
+    Embedded Dialog:
+    - added usage guideline for when the content-window is smaller than the dialog
+    - increased spacing between callouts
+
+[33mcommit 06da05077c0fd8c0e8f2c95fa485a1645e67aa61[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Apr 5 12:07:02 2016 -0700
+
+    Delete Embedded_Dialog.pdf
+    
+    Removing duplicate misplaced file.
+
+[33mcommit ec8e45eda4a31a968ba199a402f912041e70f83b[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Apr 5 12:06:35 2016 -0700
+
+    Delete Embedded_Dialog.ai
+    
+    Removing duplicate misplaced file.
+
+[33mcommit 60af04b8879bbe56a28cd312180706d1047b6bdc[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 31 13:25:57 2016 -0700
+
+    Update README.md
+
+[33mcommit 631d9933b1d716fc917ea41c50d52b6c2176868b[m
+Merge: 372f1fd d016067
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 31 13:20:57 2016 -0700
+
+    Merge pull request #7 from OfficeDev/Alec's-ongoing-changes
+    
+    Alec's ongoing changes
+
+[33mcommit 372f1fdf6cbe9cdd5890caa74b95b979a0422266[m
+Merge: 302f269 ee40747
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 31 13:18:51 2016 -0700
+
+    Merge pull request #5 from OfficeDev/Embedded-Dialog
+    
+    Fixed Embedded Dialog Pattern
+
+[33mcommit d0160671e67c22b38a455ad3685a4aa8e946b621[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Thu Mar 31 11:51:45 2016 -0700
+
+    Updated Embedded Dialog
+    
+    Updated icon callout to include class name
+    Added Overlay callout
+
+[33mcommit b10569ccfa76fcbc55a03537094633b32cc800ac[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Mar 30 17:32:18 2016 -0700
+
+    Fixed taskpane title
+    
+    Changed taskpane title from "OneDrive Charts" to "My Add-in Name"
+
+[33mcommit 302f269a6bd543b1145b9bc71b72a8ff961315a5[m
+Merge: c8f5291 61faf47
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 15:01:18 2016 -0700
+
+    Merge pull request #4 from OfficeDev/Notifications---Inline-Message
+    
+    Uploading the correct Inline Message PDF
+
+[33mcommit ee40747d491b255614a6f603818931b57f0448f8[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Mar 30 14:49:20 2016 -0700
+
+    Fixed Embedded Dialog Pattern
+    
+    Taskpane dialog is no longer a page navigate
+
+[33mcommit c8f529152389c83419f86cff6288ca6895b10e4d[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 14:41:22 2016 -0700
+
+    Update README.md
+
+[33mcommit c304339bb0c44376f20e1db943dc7a11c1b168ca[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 14:39:23 2016 -0700
+
+    Update README.md
+    
+    Updated links to the 4 first run patterns.
+
+[33mcommit 3695cac3b47dc151ffd41a18a011ee719375b5e0[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 14:27:09 2016 -0700
+
+    Added 4 First Run Experience patterns both PDF and Illustrator files.
+
+[33mcommit 61faf474d651c21ea7fb4fe29ffc1300934e66fe[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Wed Mar 30 13:15:02 2016 -0700
+
+    Uploading the correct Inline Message PDF
+    
+    The last one had the wrong title/labels
+
+[33mcommit 418d2052b26b42ca12daaa90bff7635ce7f00000[m
+Merge: 2995ad3 67f5956
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:48:31 2016 -0700
+
+    Merge branch 'master' of https://github.com/OfficeDev/Office-Add-in-Design-Patterns
+    
+    Merging master branches.
+
+[33mcommit 2995ad3d9f0d12742e969e574537a98f0cea61b5[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:44:58 2016 -0700
+
+    Updates to the brand bar to account for horizontal branding or logotypes.
+
+[33mcommit 67f5956b67098286e81f6794578e7ec0fbf81f76[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:07:59 2016 -0700
+
+    Update README.md
+    
+    Added new link to Notifications_inline_message & removed reference to the notification_error.
+
+[33mcommit 39dfb6cc5857d213bda26ad7099d7052c9f938d1[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:05:12 2016 -0700
+
+    Delete Notification_error.pdf
+    
+    Removing this file and replacing with notificaiton_inline_message.
+
+[33mcommit de69a51c666bf4f948b02082e432d59e192369e4[m
+Merge: 7f08242 5f67f0e
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:04:13 2016 -0700
+
+    Merge pull request #2 from OfficeDev/Notifications---Inline-Message
+    
+    Notification_Inline_Message
+
+[33mcommit 7f08242045b9c90e8bf04fcf8458d943ae0177f2[m
+Merge: 42cee2d 5478222
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Wed Mar 30 12:02:59 2016 -0700
+
+    Merge pull request #3 from OfficeDev/licenseupdate
+    
+    Update LICENSE
+
+[33mcommit 5478222beb932064985aa93a6e931d98d37a18b5[m
+Author: David Chesnut <davech@microsoft.com>
+Date:   Tue Mar 29 16:37:29 2016 -0700
+
+    Update LICENSE
+
+[33mcommit 42cee2d144e160c83905da219c77aee59f4383dd[m
+Merge: 09517fa 64c830b
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Mar 29 15:08:21 2016 -0700
+
+    Merge branch 'master' of https://github.com/OfficeDev/Office-Add-in-Design-Patterns
+    Updates to template files and removal of duplicate file.
+
+[33mcommit 09517faa4edb7ff0fa826a482e25f1f138a5afac[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Mar 29 15:00:44 2016 -0700
+
+    Updates to the Word template and removal of duplicate file.
+
+[33mcommit 64c830beb99862f0dd3976af74ba345ae5d63421[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Mar 29 14:00:24 2016 -0700
+
+    Delete AddIn_Template _Word_Desktop_reference.pdf
+    
+    Remove duplicate file with slightly different name
+
+[33mcommit 341ccf654d0d94645dc5f72a66763418d5e63773[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Tue Mar 29 13:51:27 2016 -0700
+
+    Delete AddIn_Template _PowerPoint_Desktop_reference.pdf
+    
+    Duplicate file with slightly different name removed
+
+[33mcommit 5f67f0e6bc9466016fce77ba75e0b39a32bae5ac[m
+Author: Alec-McGinnis <v-alemcg@microsoft.com>
+Date:   Tue Mar 29 13:13:26 2016 -0700
+
+    Notification_Inline_Message
+    
+    Adding files for the updated notification inline message pattern
+
+[33mcommit d0f60e5cd4e5d77975d2beeb27bd08d836ef5c33[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Mar 25 15:29:05 2016 -0700
+
+    Update README.md
+
+[33mcommit 5123705d443feabd2ac1691864e8ff1e908b1895[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Mar 25 15:28:27 2016 -0700
+
+    Update README.md
+    
+    Added new files and links to the templates and patterns list.
+
+[33mcommit 7090ebabb2db4dd8eddd4476842cf8b5686f7300[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Mar 25 15:23:25 2016 -0700
+
+    Removed extraneous file
+    
+    Removed a duplicate file for Excel iPad
+
+[33mcommit de52cf77fd520614932f09942a770a77132787d5[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Fri Mar 25 15:15:56 2016 -0700
+
+    Additional Templates and Patterns
+    
+    Added new template and pattern files and cleaned up file names at the
+    same time.
+
+[33mcommit a48fd93270ade62fc193395d728e920de7c2180b[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 16:34:37 2016 -0700
+
+    Update README.md
+    
+    Updates to fonts in tips and tricks.
+
+[33mcommit 4303302587f2a201cd20fc814ecec7ce5009443a[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 16:30:24 2016 -0700
+
+    Update README.md
+
+[33mcommit 1ef761f5497a3a69820f79a5957588154745f121[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 16:29:23 2016 -0700
+
+    Update README.md
+
+[33mcommit bd60c9a231752bbde010f5210581fa2d4be2ee70[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 16:28:13 2016 -0700
+
+    Add Icon Production Template
+    
+    Added both a PDF and an AI file for icon production.
+
+[33mcommit 821bec8df80e8b4df9405bf4da359649743e1f98[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 16:03:31 2016 -0700
+
+    Added links to templates.
+
+[33mcommit 1536a10a0146447445804de649a1f9e1150cf99d[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 15:53:27 2016 -0700
+
+    Update README.md
+    
+    Added: tips and tricks
+
+[33mcommit ca641afc796578081b00a7ade328a924ef9373ab[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 15:48:49 2016 -0700
+
+    Initial File Sync
+    
+    Initial attempt to push core files to the repo. (May discover that .ai
+    files need to be contained in a zip)
+
+[33mcommit d37ab74b955f52bc532a1beeca0ee00b566e816c[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 14:27:33 2016 -0700
+
+    Update README.md
+
+[33mcommit d780f1aafb3f5d9844753ea54a064f5af26b24b3[m
+Author: Jeffrey Dunn - MSFT <jedunn@microsoft.com>
+Date:   Thu Mar 24 14:26:15 2016 -0700
+
+    Update README.md
+    
+    Initial read-me and repo description.
+
+[33mcommit 0a9e667a7b990902bc8068ad4a4015aa9ab82ccb[m
+Author: David Chesnut <davech@microsoft.com>
+Date:   Fri Mar 11 08:37:28 2016 -0800
+
+    Update README.md
+
+[33mcommit 318203e89133ef7df78f02bd351145f138e13951[m
+Author: David Chesnut <davech@microsoft.com>
+Date:   Fri Mar 11 08:33:40 2016 -0800
+
+    Initial commit
