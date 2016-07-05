@@ -1,7 +1,7 @@
 ###AddIn_Store_Experience_Toolkit
-We are currently developing a Store Template toolkit that can help you visualize your add-in in the store. Let us know if you think you would find useful this toolkit by creating a "New Issue" item in the Issue Tracker.
+We are currently working on a Store Template Toolkit Illustrator file template that can help you visualize your add-in in the store. If you think that you would find this template useful and would like us to publish it, let us know by creating a "New Issue" item in the Issue Tracker.
 
-[New Issue](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/issues)
+[+ Submit a New Issue](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/issues)
 
 ***
 
