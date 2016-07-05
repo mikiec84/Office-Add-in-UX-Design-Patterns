@@ -3,7 +3,7 @@
 
 ***
 
-![Navigation_TabBar - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation_TabBar/Navigation_TabBar_Desktop_Content_Callouts.jpg)
+![Navigation_TabBar - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation_TabBar/Navigation_TabBar_Desktop_Taskpane_Callouts.jpg)
 Specifications for desktop task pane 
 
 
@@ -15,7 +15,7 @@ Composition for desktop task pane
 Composition for iPad task pane 
 
 
-![Navigation_TabBar - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation_TabBar/Navigation_TabBar_Desktop_Content.jpg)
+![Navigation_TabBar - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation_TabBar/Navigation_TabBar_Desktop_Content_Callouts.jpg)
 Specifications for desktop content window
 
 
