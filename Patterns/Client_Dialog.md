@@ -3,9 +3,7 @@
 
 
 * [Code - Client Dialog Alert](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/alert)
-
 * [Code - Client Dialog with Typeramp](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/typeramp) 
-
 * [Code - Client Dialog with Navigation](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/navigation) 
 
 ***
