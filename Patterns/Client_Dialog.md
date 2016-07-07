@@ -3,25 +3,24 @@
 
 ***
 
-![Nav - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav_Desktop%20Task%20Pane%20Callouts.png)
-Specifications for desktop task pane 
+![Client Dialog - Alert - Specifications for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/Client_Dialog_Desktop%20Task%20Pane%20Callouts.png)
+Client Dialog - Alert - Specifications for desktop 
 
 
-![Nav - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav_Desktop%20Task%20Pane.png)
-Composition for desktop task pane 
+![Client Dialog - Alert - Composition for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/Client_Dialog_Desktop%20Task%20Pane.png)
+Client Dialog - Alert - Composition for desktop
 
 
-![Nav - Composition for iPad task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav-06.png)
-Composition for iPad task pane 
+![Client Dialog - Generic Variant 1 - Specifications for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/Client_Dialog_Desktop%20Content%20Window%20Callouts.png)
+Client Dialog - Generic Variant 1 - Specifications for desktop
+
+![Client Dialog - Generic Variant 1 - Composition for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/ClientDialog_Alert-06.png)
+Client Dialog - Generic Variant 1 - Composition for desktop
 
 
-![Nav - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav_Desktop%20Content%20Window%20Callouts.png)
-Specifications for desktop content window
+![Client Dialog - Generic Variant 2 - Specifications for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/Client_Dialog_Desktop%20Content%20Window.png)
+Client Dialog - Generic Variant 2 - Specifications for desktop
 
 
-![Nav - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav_Desktop%20Content%20Window.png)
-Composition for desktop content window
-
-
-![Nav - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Nav/Nav-07.png)
-Composition for iPad content window
+![Client Dialog - Generic Variant 2 - Composition for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/ClientDialog_Alert-07.png)
+Client Dialog - Generic Variant 2 - Composition for desktop
