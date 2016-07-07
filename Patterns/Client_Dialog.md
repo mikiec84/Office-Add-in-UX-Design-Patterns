@@ -3,12 +3,8 @@
 
 
 * [Code - Client Dialog Alert](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/alert)
-
-
-*[Code - Client Dialog with Typeramp](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/typeramp)
-
-
-*[Code - Client Dialog with Navigation](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/navigation)
+* [Code - Client Dialog with Typeramp](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/typeramp)
+* [Code - Client Dialog with Navigation](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/navigation)
 ***
 
 ![Client Dialog - Alert - Specifications for desktop](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Client_Dialog/Client_Dialog_Desktop%20Task%20Pane%20Callouts.png)
