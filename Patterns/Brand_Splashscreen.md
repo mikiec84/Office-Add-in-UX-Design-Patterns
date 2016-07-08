@@ -1,4 +1,5 @@
-###Brand Splashscreen
+###Brand Splash Screen
+This is a screen for displaying your branding while the add-in is loading.
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Brand_splashscreen.ai?raw=true)
 
 ***
