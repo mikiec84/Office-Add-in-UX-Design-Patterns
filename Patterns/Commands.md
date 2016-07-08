@@ -15,7 +15,7 @@ Composition for desktop task pane
 Composition for iPad task pane 
 
 
-![Commands - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Commands/Commands_Desktop%20Content%20Window%20Callouts.png)
+![Commands - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Commands/Commands_Desktop%20Content%20Window%20Callouts%20.png)
 Specifications for desktop content window
 
 
