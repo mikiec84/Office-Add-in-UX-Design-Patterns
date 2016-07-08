@@ -1,4 +1,4 @@
-###Base Styles & Typography Ramp
+###Base Styles and Typography Ramp
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Base_styles_typeramp.ai?raw=true)
 
 ***
