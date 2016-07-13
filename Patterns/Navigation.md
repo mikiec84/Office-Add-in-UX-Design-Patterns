@@ -6,17 +6,17 @@
 Flowchart and title page
 
 ![Navigation - Specifications for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation/Navigation_Desktop%20Task%20Pane%20Callouts.png)
-Specifications for desktop task pane 
+1. Specifications for desktop task pane 
 
 
 ![Navigation - Composition for desktop task pane](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation/Navigation_Desktop%20Task%20Pane.png)
-Composition for desktop task pane 
+2. Composition for desktop task pane 
 
 
 ![Navigation - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation/Navigation_Desktop%20Content%20Window%20Callouts.png)
-Specifications for desktop content window
+1. Specifications for desktop content window
 
 
 ![Navigation - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Navigation/Navigation_Desktop%20Content%20Window.png)
-Composition for desktop content window
+2. Composition for desktop content window
 
