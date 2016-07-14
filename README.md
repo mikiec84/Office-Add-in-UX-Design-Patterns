@@ -31,8 +31,8 @@ Patterns
 - [First Run - Paging Panel](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/walkthrough "code"))
 - [Authentication Flow](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Authentication_Flow.md)
 - [Tab Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Tab_Bar.md)
-- [Pivot](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Pivot.md))
-- [Settings](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Chris-Markdown/Patterns/Settings.md))
+- [Pivot](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Pivot.md)
+- [Settings](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/Chris-Markdown/Patterns/Settings.md)
 
 Helpful Templates
 
