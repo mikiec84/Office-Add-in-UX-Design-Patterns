@@ -1,4 +1,5 @@
-###Nav & Commands
+###Settings
+Settings displays common components that may be used within an Add-in's settings menu.
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Settings.ai?raw=true)
 
 ***
