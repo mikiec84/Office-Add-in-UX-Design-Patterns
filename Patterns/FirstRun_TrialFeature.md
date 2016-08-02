@@ -1,6 +1,5 @@
 ###First Run - Trial Feature
-Trial Feature shows users how to get unlock a feature in the add-in and sign up for a trial version of your add-in.
-* [Code sample](to be added soon)
+Trial Feature allows unlocking a feature in an add-in, and signing-up for a trial version of the add-in.
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/FirstRun_TrialFeature.ai?raw=true)
 
 ***
