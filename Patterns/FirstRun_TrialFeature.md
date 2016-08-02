@@ -1,6 +1,5 @@
 ###First Run - Trial Feature
-Trial Feature shows users how to get unlock a feature in the add-in and sign up for a trial version of your add-in.
-* [Code sample](to be added soon)
+Trial Feature allows unlocking a feature in an add-in, and signing-up for a trial version of the add-in.
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/FirstRun_TrialFeature.ai?raw=true)
 
 ***
@@ -17,13 +16,13 @@ Composition for desktop task pane
 Composition for iPad task pane
 
 
-![First Run - Trial Feature - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_Desktop%20Content%20Window%20Callouts.jpg)
+![First Run - Trial Feature - Specifications for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_Desktop_Content_Callouts.jpg)
 Specifications for desktop content window
 
 
-![First Run - Trial Feature - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_Desktop_ContentWindow.jpg)
+![First Run - Trial Feature - Composition for desktop content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_Desktop_Content.jpg)
 Composition for desktop content window
 
 
-![First Run - Trial Feature - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_iPad_ContentWindow.jpg)
+![First Run - Trial Feature - Composition for iPad content window](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/FirstRun_TrialFeature/FirstRun_TrialFeature_iPad_Content.jpg)
 Composition for iPad content window
