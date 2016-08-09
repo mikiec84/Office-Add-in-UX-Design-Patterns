@@ -1,4 +1,5 @@
 ###Tab Bar
+* [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/tab-bar)
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Tab_Bar.ai?raw=true)
 
 ***

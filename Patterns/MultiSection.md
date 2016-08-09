@@ -1,5 +1,6 @@
 ###Multi Section
 Multi Section displays a common layout and set of tools that may be used within an Add-in.
+* [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings)
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/MultiSection.ai?raw=true)
 
 ***

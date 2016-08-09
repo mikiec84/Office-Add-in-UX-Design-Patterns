@@ -1,4 +1,5 @@
 ###Back Button
+* [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/back-button)
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Back_Button.ai?raw=true)
 
 ***

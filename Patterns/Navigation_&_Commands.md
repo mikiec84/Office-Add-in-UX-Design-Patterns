@@ -1,4 +1,5 @@
 ###Navigation & Commands
+* [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/navigation-commands)
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Navigation_&_Commands.ai?raw=true)
 
 ***
