@@ -1,6 +1,8 @@
 # Office Add-in UX Design Patterns
 This repository is a library of common UX design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns, download the templates to quickly create your own mock-ups using Adobe Illustrator, or download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code").
 
+Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
+
 ##Get Started
 - [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of the Office Add-in UX design patterns.
 - [Download the ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
