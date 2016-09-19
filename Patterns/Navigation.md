@@ -1,5 +1,7 @@
 ###Navigation
 
+Shows a menu, commonly referred to as the hamburger menu, with page menu items in a task pane. 
+
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 
 * [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/navigation)
