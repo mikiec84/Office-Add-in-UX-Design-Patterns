@@ -1,6 +1,6 @@
 ###Authentication Flow
 
-Use this sequence of screens to help users log in to your add-in.
+Use this sequence of screens to help users log-in to your add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 
