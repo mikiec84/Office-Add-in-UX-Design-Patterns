@@ -1,5 +1,5 @@
 # Dialog Authentication Flow - Single Identity Provider
-Use dialogs to present authentication screens to your end users. Consider this UX design pattern when using a **single identity provider** and your add-in has **space to display that provider's button**. Compare to the [multiple identity providers ux design pattern](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/daniel/Patterns/Authentication_Dialog_Multiple_ID.md).
+Use dialogs to present authentication screens to your end users. Consider this UX design pattern when using a **single identity provider** and your add-in has **space to display that provider's button**. Compare to the [multiple identity providers ux design pattern](Authentication_Dialog_Multiple_ID.md).
 
 ##More Details
 - Microsoft Branded Sign-in Button - When using Microsoft's Identity service you'll have the opportunity to use a branded sign-in button that is customizable to light and dark themes. Find out more. (LINK)
