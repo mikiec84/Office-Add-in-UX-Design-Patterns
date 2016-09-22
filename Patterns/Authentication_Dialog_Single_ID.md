@@ -8,6 +8,8 @@ Use dialogs to present authentication screens to your end users. Consider this U
 
 * [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/daniel/Patterns/Source%20Files/Authentication_Dialog_Single_ID.ai?raw=true)
 
+- Find the Code Sample (To be published)
+
 ***
 ![Authentication Dialog Single Identity - Flowchart](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Single_ID/titlepage.jpg)
 Flowchart and title page
@@ -37,5 +39,3 @@ Flowchart and title page
 
 ![Authentication Dialog Single Identity - Variant Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Single_ID/auth_dialog_singleid_variantprogress.jpg)
 8. Variant Progress
-
-- Find the Code Sample (To be published)
