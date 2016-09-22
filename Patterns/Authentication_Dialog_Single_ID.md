@@ -36,8 +36,4 @@ Recommended screen flow for when using a single identity provider in your add-in
 7. Variant Provider Sign-in - Continue the sign-in experience with provider UI in a dialog.
 
 ![Authentication Dialog Single Identity - Variant Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Single_ID/auth_dialog_singleid_variantprogress.jpg)
-<<<<<<< HEAD
-8. Variant Progress
-=======
 8. Variant Progress  - indicate progress while settings and UI load. Close the dialog on complete.
->>>>>>> 617d52dbfebee756878f8430f0ed443adc74cdb2
