@@ -16,7 +16,7 @@ Flowchart and title page
 1. First run placemat - task pane
 
 
-![Authentication Dialog Single Identity - Provider Sign-in](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/daniel/Patterns/Assets/Authentication_Dialog_Single_ID/auth_dialog_singleid_providerui.jpg)
+![Authentication Dialog Single Identity - Provider Sign-in](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Single_ID/auth_dialog_singleid_providerui.jpg)
 2. Provider Sign-in
 
 
