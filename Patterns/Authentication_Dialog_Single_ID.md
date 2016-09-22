@@ -1,4 +1,4 @@
-# Dialog Authentication Flow - Single Identity Provider
+# Authentication Dialog Flow - Single Identity Provider
 Use dialogs to present authentication screens to your end users. Consider this UX design pattern when using a **single identity provider** and your add-in has **space to display that provider's button**. Compare to the [multiple identity providers ux design pattern](Authentication_Dialog_Multiple_ID.md).
 
 ##More Details
