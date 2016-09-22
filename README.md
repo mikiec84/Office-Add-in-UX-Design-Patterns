@@ -22,6 +22,8 @@ Patterns
  - [Value Placemat](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_ValuePlacemat.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/value-placemat "code"))
  - [Video Placemat](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/video-placemat "code"))
 - General
+ - [Authentication Dialog Single Identity](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/daniel/Patterns/Authentication_Dialog_Single_ID.md)
+  - [Authentication Dialog Multiple Identity](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/daniel/Patterns/Authentication_Dialog_Multiple_ID.md)
  - [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.md)
  - [Commands](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Commands.md)
  - [Multi-Section](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/MultiSection.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code"))
