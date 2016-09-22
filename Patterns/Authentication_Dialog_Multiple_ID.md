@@ -7,10 +7,10 @@ Use dialogs to present authentication screens to your end users. Consider this U
 - Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 - AI File (To be published)
 
-* [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/Authentication_Dialog_Multiple_ID.ai?raw=true)
+* [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/daniel/Patterns/Source%20Files/Authentication_Dialog_Multiple_ID.ai?raw=true)
 
 ***
-![Authentication Dialog Multiple Identity - Flowchart](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/titlePage.jpg)
+![Authentication Dialog Multiple Identity - Flowchart](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/titlepage.jpg)
 Flowchart and title page
 
 
