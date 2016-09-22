@@ -42,4 +42,4 @@ Recommended screen flow for when using multiple identity providers in your add-i
 7. Provider Choices Variant A - Authentication form with multiple provider sign-in buttons.
 
 ![Authentication Dialog Multiple Identity - Provider choices variant B](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_variantB.jpg)
-7. Provider choices variant B - Multiple provider sign-in buttons.
+7. Provider Choices Variant B - Multiple provider sign-in buttons.
