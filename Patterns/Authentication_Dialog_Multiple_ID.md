@@ -27,7 +27,7 @@ Recommended screen flow for when using multiple identity providers in your add-i
 
 
 ![Authentication Dialog Multiple Identity - Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_progress.jpg)
-4. Progress - indicate progress will settings and UI load. 
+4. Progress - indicate progress while settings and UI load. 
 
 
 ![Authentication Dialog Multiple Identity - Home Page](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_homepage.jpg)
