@@ -94,6 +94,7 @@ Helpful Templates
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
 ##Change Log
+* 10/3/2016 - Added rudimentary in app store template.
 * 9/22/2016 - Updates to authtentication patterns, adding new files for single and multiple identity provider patterns. 
 * 8/9/2016 - Updates to cross-link markdowns with code samples
 * 7/29/2016 - New pattern added, multisection. 
