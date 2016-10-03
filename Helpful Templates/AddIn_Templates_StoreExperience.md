@@ -1,5 +1,9 @@
 ###Add In Store Experience Toolkit
-We are currently working on an Store Template Toolkit that can help you visualize your add-in in the store. If you think that you would find this Illustrator template useful and would like us to publish it, let us know by submitting a "New Issue" item in the Issue Tracker.
+We are currently working on an Store Template Toolkit that can help you visualize your add-in in the store. The current version of this template is rudimentary and only accounts for in-app store experiences.
+
+[In App Store Template - Word Desktop and iPad](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/Source%20Files/Store_Word_template.ai)
+
+Please let us know if you'd like to see additions or improvements to this template. Use the issue button below to start a discussion.
 
 [+ Submit a New Issue](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/issues/new)
 
