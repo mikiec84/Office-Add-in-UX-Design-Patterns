@@ -10,36 +10,36 @@ Use dialogs to present authentication screens to your end users. Consider this U
 
 ***
 
-![Authentication Dialog Multiple Identity - Flowchart](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/titlepage.jpg)
+![Authentication Dialog Multiple Identity - Flowchart](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/titlepage.jpg)
 Recommended screen flow for when using multiple identity providers in your add-in.
 
 
-![Authentication Flow - First Run Placemat](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_fre.jpg)
+![Authentication Flow - First Run Placemat](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_fre.jpg)
 1. First Run Placemat - The screen contains a clear call to action, "Sign-in"
 
 
-![Authentication Dialog Multiple Identity - Provider Choices](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_choices.jpg)
+![Authentication Dialog Multiple Identity - Provider Choices](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_choices.jpg)
 2. Provider Choices - End users are presented with a set of identity providers to choose from, including an authentication form. Note that the add-in UI is on hold until the dialog closes.
 
 
-![Authentication Dialog Multiple Identity - Provider Sign-in](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_providerui.jpg)
+![Authentication Dialog Multiple Identity - Provider Sign-in](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_providerui.jpg)
 3. Provider Sign-in - The identity provider will have their own UI. Microsoft's offers the opportunity to customize the page title.
 
 
-![Authentication Dialog Multiple Identity - Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_progress.jpg)
+![Authentication Dialog Multiple Identity - Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_progress.jpg)
 4. Progress - Indicate progress while settings and UI load. 
 
 
-![Authentication Dialog Multiple Identity - Home Page](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_homepage.jpg)
+![Authentication Dialog Multiple Identity - Home Page](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_homepage.jpg)
 5. Home Page - Land your users on a useful home page to begin their add-in experience.
 
 
-![Authentication Dialog Multiple Identity - Sign-out](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_signout.jpg)
+![Authentication Dialog Multiple Identity - Sign-out](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_signout.jpg)
 6. Sign-out - Include a discoverable entry point for users to manage their profile.
 
 
-![Authentication Dialog Multiple Identity - Provider choices variant A](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_variantA.jpg)
+![Authentication Dialog Multiple Identity - Provider choices variant A](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_variantA.jpg)
 7. Provider Choices Variant A - Authentication form with multiple provider sign-in buttons.
 
-![Authentication Dialog Multiple Identity - Provider choices variant B](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/daniel/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_variantB.jpg)
+![Authentication Dialog Multiple Identity - Provider choices variant B](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_variantB.jpg)
 7. Provider Choices Variant B - Multiple provider sign-in buttons.
