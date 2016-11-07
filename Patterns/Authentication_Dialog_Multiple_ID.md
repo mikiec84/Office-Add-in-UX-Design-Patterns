@@ -24,7 +24,8 @@ Recommended screen flow for when using multiple identity providers in your add-i
 
 
 ![Authentication Dialog Multiple Identity - Provider Sign-in](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_providerui.jpg)
-3. Provider Sign-in - The identity provider will have their own UI. Microsoft Azure Active Directory allows customization of sign-in and access panel pages for consistent look and feel with your services. [Learn More](https://azure.microsoft.com/en-us/documentation/articles/active-directory-add-company-branding/).
+3. Provider Sign-in - The identity provider will have their own UI. Microsoft Azure Active Directory allows customization of sign-in and access panel pages for consistent look and feel with your service. [Learn More](https://azure.microsoft.com/en-us/documentation/articles/active-directory-add-company-branding/).
+
 
 ![Authentication Dialog Multiple Identity - Progress](https://raw.githubusercontent.com/OfficeDev/Office-Add-in-UX-Design-Patterns/master/Patterns/Assets/Authentication_Dialog_Multiple_ID/auth_dialog_multiid_progress.jpg)
 4. Progress - Indicate progress while settings and UI load. 
