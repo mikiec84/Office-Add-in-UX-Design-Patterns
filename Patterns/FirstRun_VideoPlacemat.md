@@ -4,7 +4,7 @@ Video Placemat shows users a video before they start using your add-in.
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 
 * [Code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/video-placemat)
-* [.Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/FirstRun_VideoPlacemat.ai?raw=true)
+* [Download .Ai file](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Source%20Files/FirstRun_VideoPlacemat.ai?raw=true)
 
 ***
 
