@@ -16,7 +16,6 @@ Patterns
   * [Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md) - This is a screen for displaying your branding while the add-in is loading.
  
 * First-Run
-
   * [Paging Panel](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/walkthrough "code")) - Takes users through a series of features or information before they start using the add-in.
   * [Steps to Start](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/instruction-step "code")) - Provides users with an ordered list of steps to perform to get started using your add-in.
   * [Trial Feature](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_TrialFeature.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/trial-placemat-feature "code")) - Allows unlocking a feature in an add-in, and signing-up for a trial version of the add-in.
@@ -29,8 +28,8 @@ Patterns
   * [Authentication Dialog Multiple Identity](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_Dialog_Multiple_ID.md) - Present authentication screens to your end users.
   * [Base Styles and Typography Ramp](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Base_styles_typeramp.md) - Basic guidelines for typography and padding.
   * [Commands](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Commands.md) - Shows how to present the command bar in your add-in.
-  * [Multi-Section](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/MultiSection.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays a common layout and set of tools that may be used within an Add-in.
-  * [Settings](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Settings.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays common components that may be used within an Add-in's settings menu.
+  * [Multi-Section](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/MultiSection.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays a common layout and set of tools that may be used within an add-in.
+  * [Settings](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Settings.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays common components that may be used within an add-in's settings menu.
   
 * Navigation
   * [Back Button](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Back_Button.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/back-button "code")) - Shows a task pane with Back and Next Page buttons. 
