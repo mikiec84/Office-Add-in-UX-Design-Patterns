@@ -13,8 +13,7 @@ Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabr
 Patterns
 * Brand
   * [Brand Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Bar.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/generic/brand-bar "code")) - The brand bar is a space in the footer to include your brand name and logo.
-  * [Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md) - This is a screen for displaying your branding while the add-in is loading. 
-
+  * [Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md) - This is a screen for displaying your branding while the add-in is loading.
 * First-Run
   * [Paging Panel](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_PagingPanel.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/walkthrough "code")) - Takes users through a series of features or information before they start using the add-in.
   * [Steps to Start](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_StepsToStart.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/instruction-step "code")) - Provides users with an ordered list of steps to perform to get started using your add-in.
@@ -22,7 +21,6 @@ Patterns
   * [Trial Version](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_TrialVersion.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/trial-placemat "code")) - Shows users how to get started with a trial version of your add-in.
   * [Value Placemat](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_ValuePlacemat.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/value-placemat "code")) - Communicates your add-in's value proposition.
   * [Video Placemat](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/FirstRun_VideoPlacemat.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/video-placemat "code")) - Shows users a video before they start using your add-in.
-
 * General
   * [Authentication Dialog Single Identity](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_Dialog_Single_ID.md) - Present authentication screens to your end users.
   * [Authentication Dialog Multiple Identity](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Authentication_Dialog_Multiple_ID.md) - Present authentication screens to your end users.
@@ -30,14 +28,12 @@ Patterns
   * [Commands](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Commands.md) - Shows how to present the command bar in your add-in.
   * [Multi-Section](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/MultiSection.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays a common layout and set of tools that may be used within an Add-in.
   * [Settings](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Settings.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/settings "code")) - Displays common components that may be used within an Add-in's settings menu.
-
 * Navigation
   * [Back Button](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Back_Button.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/back-button "code")) - Shows a task pane with Back and Next Page buttons. 
   * [Navigation](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Navigation.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/navigation "code")) - Shows a hamburger menu in a task pane. 
   * [Navigation & Commands](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Navigation_%26_Commands.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/navigation-commands "code")) - Displays navigation and command options together.
   * [Pivot](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Pivot.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/pivot "code")) - Displays navigational links in a bar at the top of the add-in space.
   * [Tab Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Tab_Bar.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/tab-bar "code")) - Shows navigation links at the top of the add-in space using icons and labels.
-
 * Notifications
   * [Client Dialog](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Client_Dialog.md) (code: [Alert](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/alert "alert"), [Navigation](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/navigation "navigation"), [Typeramp](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/dialog/typeramp "typeramp")) - Displays a dialog in the main space of the Office application.
   * [Embedded Dialog](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Embedded_Dialog.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/embedded-dialog "code")) - Displays a dialog inside of the add-in space.
@@ -46,19 +42,6 @@ Patterns
   * [Message Banner](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_MessageBanner.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/message-banner "code")) - Provides information in a collapsible, dismissable banner.
   * [Progress](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_Progress.md) (code:  [progress bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/progress-bar "progress bar"), [spinner](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/spinner "spinner")) - Shows how to indicate the progress of a long-running process.
   * [Toast](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_Toast.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/toast "code")) - Provides a brief message that fades away after a few seconds.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Helpful Templates
 
