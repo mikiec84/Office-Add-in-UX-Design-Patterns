@@ -9,8 +9,6 @@ Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabr
 * Download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code") to start building add-ins.
 
 ##Office Add-in Design Patterns
-
-Patterns
 * Brand
   * [Brand Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Bar.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/generic/brand-bar "code")) - The brand bar is a space in the footer to include your brand name and logo.
   * [Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md) - This is a screen for displaying your branding while the add-in is loading.
@@ -59,6 +57,8 @@ Helpful Templates
   * [Word iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Word_iPad_reference.pdf)
   * [Excel iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_Excel_iPad_reference.pdf)
   * [PowerPoint iPad](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Template_PowerPoint_iPad_reference.pdf)
+* Outlook Mobile
+  * [iOS](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Outlook%20Mobile/iOS-Addins-Components Final.sketch)
 * Store Experience Toolkit [(In Progress)](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Templates_StoreExperience.md)
 
 ##Tips & Tricks
