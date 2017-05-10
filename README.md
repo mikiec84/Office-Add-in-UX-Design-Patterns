@@ -3,12 +3,12 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 
-##Get Started
+## Get Started
 * [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of the Office Add-in UX design patterns.
 * [Download the ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
 * Download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code") to start building add-ins.
 
-##Office Add-in Design Patterns
+## Office Add-in Design Patterns
 * Brand
   * [Brand Bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Bar.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/generic/brand-bar "code")) - The brand bar is a space in the footer to include your brand name and logo.
   * [Splash Screen](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Brand_Splashscreen.md) - This is a screen for displaying your branding while the add-in is loading.
@@ -45,7 +45,7 @@ Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabr
   * [Progress](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_Progress.md) (code:  [progress bar](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/progress-bar "progress bar"), [spinner](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/spinner "spinner")) - Shows how to indicate the progress of a long-running process.
   * [Toast](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Patterns/Notification_Toast.md) ([code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/notifications/toast "code")) - Provides a brief message that fades away after a few seconds.
 
-##Helpful Templates
+## Helpful Templates
 * [Icon Production Template](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Icon_production.pdf), *Open the pdf as reference, use the AI file for production*
 * [Office UI Fabric Icon Master Sheet](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/OfficeUIFabric_icon_mastersheet.pdf), *Open the pdf as reference, use the AI file for production*
 * Office Add-in Templates for Desktop
@@ -60,7 +60,7 @@ Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabr
   * [iOS](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Helpful%20Templates/Outlook%20Mobile/iOS-Addins-Components Final.sketch)
 * Store Experience Toolkit [(In Progress)](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns/blob/master/Helpful%20Templates/AddIn_Templates_StoreExperience.md)
 
-##Tips & Tricks
+## Tips & Tricks
 * These templates are vector files produced with Adobe Illustrator or .ai files.
 * The files are produced at 200% size to accommodate high resolution screens.
 * All pattern files contain simplified versions of the Office applications in the background. Refer to the helpful add-in templates for more accurate backgrounds.
@@ -72,15 +72,15 @@ Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabr
  * Some files contain linked files from the folder called "Embedded Backgrounds".
  * Some common elements used across files have been created as symbols. These can be found in the "Embedded Symbols" folder.
 
-##Learn more
+## Learn more
 * [Best practices for developing Office Add-ins](https://msdn.microsoft.com/EN-US/library/office/mt590883.aspx).
 * [Office UI Fabric](http://dev.office.com/fabric/), The UI toolkit for building experiences for Office and Office 365.
 
-##Comments, Questions & Contributions
+## Comments, Questions & Contributions
 * We love your feedback - bugs, feature request and general questions are all posted on the [issue tracker](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/issues).
 * This repository is a work in progress. We're actively improving existing design patterns and adding new ones.
 
-##Change Log
+## Change Log
 * 10/3/2016 - Added rudimentary in app store template.
 * 9/22/2016 - Updates to authtentication patterns, adding new files for single and multiple identity provider patterns. 
 * 8/9/2016 - Updates to cross-link markdowns with code samples
