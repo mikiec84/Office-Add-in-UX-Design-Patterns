@@ -1,4 +1,5 @@
-###First Run - Trial Version
+### First Run - Trial Version
+
 Trial Version shows users how to get started with a trial version of your add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
