@@ -1,4 +1,5 @@
-###First Run - Steps To Start
+### First Run - Steps To Start
+
 Steps to start provides users with an ordered list of steps to perform to get started using your add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

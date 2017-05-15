@@ -1,4 +1,5 @@
-###First Run - Trial Feature
+### First Run - Trial Feature
+
 Trial Feature allows unlocking a feature in an add-in, and signing-up for a trial version of the add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

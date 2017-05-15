@@ -1,4 +1,4 @@
-###Client Dialog
+### Client Dialog
 
 Client dialog boxes provide another way for users to work with your add-in outside of a task pane.
 

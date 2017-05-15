@@ -1,4 +1,4 @@
-###Tab Bar
+### Tab Bar
 
 Shows navigation using buttons with vertically stacked text and icons. Use the tab bar to provide navigation using tabs with short and descriptive titles. 
 

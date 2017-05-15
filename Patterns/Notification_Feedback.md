@@ -1,4 +1,5 @@
-###Notification - Feedback
+### Notification - Feedback
+
 Feedback allows an Add-in to ask for customer feedback.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

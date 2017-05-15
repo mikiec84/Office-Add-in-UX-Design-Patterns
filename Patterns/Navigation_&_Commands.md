@@ -1,4 +1,4 @@
-###Navigation & Commands
+### Navigation & Commands
 
 Shows the hamburger menu with command (or action) buttons in a task pane. Use this pattern when you want to provide navigation and command options together.
 

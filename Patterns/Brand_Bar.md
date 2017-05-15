@@ -1,4 +1,4 @@
-###Brand Bar
+### Brand Bar
 The brand bar is a space in the footer to include your brand name and logo. It also serves as a link to your brand's website.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

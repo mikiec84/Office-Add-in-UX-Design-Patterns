@@ -3,7 +3,7 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
 
-##Get Started
+## sGet Started
 * [Browse PDF files](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/tree/master/Patterns) of the Office Add-in UX design patterns.
 * [Download the ZIP](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/archive/master.zip) of the repo to access all the Adobe Illustrator templates
 * Download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code") to start building add-ins.

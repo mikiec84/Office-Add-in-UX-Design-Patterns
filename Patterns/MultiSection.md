@@ -1,4 +1,5 @@
-###Multi Section
+### Multi Section
+
 Multi Section displays a common layout and set of tools that may be used within an Add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)
