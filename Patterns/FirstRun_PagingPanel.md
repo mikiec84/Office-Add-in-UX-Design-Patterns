@@ -1,4 +1,5 @@
-###First Run - Paging Panel
+### First Run - Paging Panel
+
 Paging Panel takes users through a series of features or information before they start using the add-in.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

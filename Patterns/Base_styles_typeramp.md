@@ -1,4 +1,4 @@
-###Base Styles and Typography Ramp
+### Base Styles and Typography Ramp
 
 Basic guidelines for typography and padding.
 

@@ -1,4 +1,4 @@
-###Pivot
+### Pivot
 
 Shows Pivot navigation inside of a task pane. Use pivot navigation to allow users to navigate between different content. 
 

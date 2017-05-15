@@ -1,4 +1,5 @@
-###Settings
+### Settings
+
 Settings displays common components that may be used within an Add-in's settings menu.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

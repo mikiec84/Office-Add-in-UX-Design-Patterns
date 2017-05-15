@@ -1,4 +1,5 @@
-###Brand Splash Screen
+### Brand Splash Screen
+
 This is a screen for displaying your branding while the add-in is loading.
 
 Current Fabric Version Used: [2.6.1](https://github.com/OfficeDev/office-ui-fabric-core/releases/tag/2.6.1)

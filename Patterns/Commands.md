@@ -1,4 +1,4 @@
-###Commands
+### Commands
 
 Shows how to present the command bar in your add-in.
 
