@@ -1,5 +1,8 @@
 # Office Add-in UX Design Patterns
-This repository is a library of common UX design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the patterns, download the templates to quickly create your own mock-ups using Adobe Illustrator, or download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code").
+
+This repository is a library of common UX design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the design patterns list below.
+
+To download the entire set of code samples navigate to the following repo:  [Office-Add-in-UX-Design-Patterns-Code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "Office-Add-in-UX-Design-Patterns-Code").
 
 ## Table of contents
 
@@ -10,7 +13,10 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 - [Additional Resources](#user-content-additional-resources)
 
 ## Get started
-<Add directions on how to >
+
+1. Review the UX design patterns list of components and patterns.
+2. Download the prototyping assets to begin mocking up your add-in.
+3. Download the [code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "code") to begin building your add-in.
 
 ## UX design patterns list
 
@@ -52,10 +58,9 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 ## Design Resources
 
 * Prototyping
-  * [Components](assets/AddinUXDesign_UIComponents.ai)
-  * [Patterns](assets/AddinUXDesign_UXPatterns.ai)
-* Outlook Mobile
-  * [iOS](assets/iOS-Addins-Components-Final.sketch)
+  * [Components - Desktop](assets/AddinUXDesign_UIComponents.ai) - Individual components for add-ins styled for desktop devices.
+  * [Patterns - Desktop](assets/AddinUXDesign_UXPatterns.ai) - Templatized patterns built from the Office UI Fabric components. 
+  * [Outlook Mobile - iOS](assets/iOS-Addins-Components-Final.sketch) - Individual components for add-ins styled for iOS devices. 
 
 ## Change log
 * 10/3/2016 - Added rudimentary in app store template.
