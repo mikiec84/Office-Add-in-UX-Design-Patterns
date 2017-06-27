@@ -3,7 +3,7 @@
 Carousel takes users through a series of features or information pages before they start using the add-in.
 
 #### Code sample
-* [Carousel code sample](../templates/first-run/carousel)
+* [Carousel code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/walkthrough)
 
 ***
 

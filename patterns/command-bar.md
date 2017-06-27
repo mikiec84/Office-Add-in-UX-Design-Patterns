@@ -3,7 +3,7 @@
 CommandBar is a surface that houses commands that operate on the content of the window, panel, or parent region it resides above. Optional features include a hamburger menu access point, search, and side commands. 
 
 #### Code sample
-* [Command bar code sample](../templates/navigation/command-bar)
+* [Command bar code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/navigation/navigation-commands)
 
 ***
 

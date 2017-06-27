@@ -3,7 +3,7 @@
 Video Placemat shows users a video before they start using your add-in.
 
 #### Code sample
-* [Video placemat code sample](../templates/first-run/video-placemat)
+* [Video placemat code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/video-placemat)
 
 ***
 
