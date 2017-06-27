@@ -16,7 +16,7 @@ To download the entire set of code samples navigate to the following repo:  [Off
 
 1. Review the UX design patterns list of components and patterns located under design resources.
 2. Download the prototyping assets to begin mocking up your add-in located under design resources.
-3. Download the code to begin building your add-in located at the following repo: [Office-Add-in-UX-Design-Patterns-Code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "Office-Add-in-UX-Design-Patterns-Code")..
+3. Download the code to begin building your add-in located at the following repo: [Office-Add-in-UX-Design-Patterns-Code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "Office-Add-in-UX-Design-Patterns-Code").
 
 ## UX design patterns list
 
