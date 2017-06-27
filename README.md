@@ -6,7 +6,7 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 - [Get started](#user-content-get-started)
 - [UX design patterns list](#user-content-ux-design-patterns-list)
 - [Design Resources](#user-content-design-resources)
-- [Known issues](#user-content-known-issues)
+- [Change log](#user-content-change-log)
 - [Additional Resources](#user-content-additional-resources)
 
 ## Get started
@@ -16,48 +16,48 @@ This repository is a library of common UX design patterns for Office Add-ins. It
 
 #### Authentication
 
-  * [Authentication Dialog Flow - Multiple Identity](src/docs/auth-multi.md) - Present a multi authentication screen to your end users.
-  * [Authentication Dialog Flow - Single Identity](src/docs/auth-single.md) - Present a single identity authentication screen to your end users.
+  * [Authentication Dialog Flow - Multiple Identity](patterns/auth-multi.md) - Present a multi authentication screen to your end users.
+  * [Authentication Dialog Flow - Single Identity](patterns/auth-single.md) - Present a single identity authentication screen to your end users.
 
 #### Branding
   
-  * [Brand Bar](src/docs/brand-bar.md) - A space in the footer to include your brand name, logo and an optional settings access location.
-  * [Splash Screen](src/docs/splash-screen.md) - This is a screen to display your company branding while the add-in is loading.
+  * [Brand Bar](patterns/brand-bar.md) - A space in the footer to include your brand name, logo and an optional settings access location.
+  * [Splash Screen](patterns/splash-screen.md) - This is a screen to display your company branding while the add-in is loading.
  
 #### First-Run
 
-  * [Carousel](src/docs/carousel.md) - Takes users through a series of features or informational steps before they start.
-  * [Value Placemat](src/docs/value-placemat.md) - Provides a clear value proposition and list of features.
-  * [Video Placemat](src/docs/video-placemat.md) - Provides value through video content.
+  * [Carousel](patterns/carousel.md) - Takes users through a series of features or informational steps before they start.
+  * [Value Placemat](patterns/value-placemat.md) - Provides a clear value proposition and list of features.
+  * [Video Placemat](patterns/video-placemat.md) - Provides value through video content.
 
 #### Navigation
 
-  * [Back Button](src/docs/back-button.md) - Shows a task pane with Back and Next Page buttons.
-  * [Contextual Menu](src/docs/contextual-menu.md) - Provides links to the main areas of an add-in. Also called "left nav" or "navigation pane."
-  * [Pivot](src/docs/pivot.md) - Allows users to navigate between different content. 
-  * [Tab Bar](src/docs/tab-bar.md) - Shows navigation links at the top of the add-in space using icons and labels.
+  * [Back Button](patterns/back-button.md) - Shows a task pane with Back and Next Page buttons.
+  * [Contextual Menu](patterns/contextual-menu.md) - Provides links to the main areas of an add-in. Also called "left nav" or "navigation pane."
+  * [Pivot](patterns/pivot.md) - Allows users to navigate between different content. 
+  * [Tab Bar](patterns/tab-bar.md) - Shows navigation links at the top of the add-in space using icons and labels.
 
 #### Utility
 
-  * [Command Bar](src/docs/command-bar.md) - A surface that houses commands that operate on the content or parent region it resides above.
-  * [Embedded Dialog](src/docs/embedded-dialog.md) - Displays a dialog inside of the task pane or content add-in.
-  * [Settings](src/docs/settings.md) - Displays common components that may be used within an add-in's settings menu.
+  * [Command Bar](patterns/command-bar.md) - A surface that houses commands that operate on the content or parent region it resides above.
+  * [Embedded Dialog](patterns/embedded-dialog.md) - Displays a dialog inside of the task pane or content add-in.
+  * [Settings](patterns/settings.md) - Displays common components that may be used within an add-in's settings menu.
   
 #### Notification
 
-  * [Progress Indicator](src/docs/progress-indicator.md) - Shows the completion status of an operation lasting more than 2 seconds.
-  * [Spinner](src/docs/spinner.md) - Indicates to the user that things are processing.
-  * [Toast](src/docs/toast.md) - Provides a brief message that fades away after a few seconds.
+  * [Progress Indicator](patterns/progress-indicator.md) - Shows the completion status of an operation lasting more than 2 seconds.
+  * [Spinner](patterns/spinner.md) - Indicates to the user that things are processing.
+  * [Toast](patterns/toast.md) - Provides a brief message that fades away after a few seconds.
 
 ## Design Resources
 
 * Prototyping
-  * [Components](src/assets/design-resources/AddinUXDesign_UIComponents.ai)
-  * [Patterns](src/assets/design-resources/AddinUXDesign_UXPatterns.ai)
+  * [Components](assets/AddinUXDesign_UIComponents.ai)
+  * [Patterns](assets/AddinUXDesign_UXPatterns.ai)
 * Outlook Mobile
-  * [iOS](src/assets/design-resources/iOS-Addins-Components-Final.sketch)
+  * [iOS](assets/iOS-Addins-Components-Final.sketch)
 
-## Change Log
+## Change log
 * 10/3/2016 - Added rudimentary in app store template.
 * 9/22/2016 - Updates to authtentication patterns, adding new files for single and multiple identity provider patterns. 
 * 8/9/2016 - Updates to cross-link markdowns with code samples
