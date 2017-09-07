@@ -2,7 +2,10 @@
 
 Trial Version shows users how to get started with a trial version of your add-in.
 
-* [Trial code sample](../templates/first-run/trial)
+> This patten is no longer being supported.
+
+#### Code sample
+* [Trial code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/trial)
 
 ***
 

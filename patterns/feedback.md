@@ -2,8 +2,10 @@
 
 Feedback allows an Add-in to ask for customer feedback.
 
+> This pattern is not currently supported.
+
 #### Code sample
-* [Feedback code sample](../templates/feedback/office-store)
+* [Feedback code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/feedback/office-store)
 
 ***
 
