@@ -24,11 +24,6 @@ To download the entire set of code samples navigate to the following repo:  [Off
 
   * [Authentication Dialog Flow - Multiple Identity](patterns/auth-multi.md) - Present a multi authentication screen to your end users.
   * [Authentication Dialog Flow - Single Identity](patterns/auth-single.md) - Present a single identity authentication screen to your end users.
-
-#### Branding
-  
-  * [Brand Bar](patterns/brand-bar.md) - A space in the footer to include your brand name, logo and an optional settings access location.
-  * [Splash Screen](patterns/splash-screen.md) - This is a screen to display your company branding while the add-in is loading.
  
 #### First-Run
 
@@ -45,9 +40,11 @@ To download the entire set of code samples navigate to the following repo:  [Off
 
 #### Utility
 
+  * [Brand Bar](patterns/brand-bar.md) - A space in the footer to include your brand name, logo and an optional settings access location.
   * [Command Bar](patterns/command-bar.md) - A surface that houses commands that operate on the content or parent region it resides above.
   * [Embedded Dialog](patterns/embedded-dialog.md) - Displays a dialog inside of the task pane or content add-in.
   * [Settings](patterns/settings.md) - Displays common components that may be used within an add-in's settings menu.
+  * [Splash Screen](patterns/splash-screen.md) - This is a screen to display your company branding while the add-in is loading.
   
 #### Notification
 
@@ -58,23 +55,10 @@ To download the entire set of code samples navigate to the following repo:  [Off
 ## Design Resources
 
 * Prototyping
-  * [Components - Desktop](assets/AddinUXDesign_UIComponents.ai) - Individual components for add-ins styled for desktop devices.
-  * [Patterns - Desktop](assets/AddinUXDesign_UXPatterns.ai) - Templatized patterns built from the Office UI Fabric components. 
+  * [Components - Desktop](assets/addin_ux_design_components.ai) - Individual components for add-ins styled for desktop devices.
+  * [Patterns - Desktop](assets/addin_ux_design_patterns.ai) - Templatized patterns built from the Office UI Fabric components. 
+  * [Prototyping - Desktop](assets/addin_ux_design_prototype.xd)
   * [Outlook Mobile - iOS](assets/iOS-Addins-Components-Final.sketch) - Individual components for add-ins styled for iOS devices. 
-
-## Change log
-* 10/3/2016 - Added rudimentary in app store template.
-* 9/22/2016 - Updates to authtentication patterns, adding new files for single and multiple identity provider patterns. 
-* 8/9/2016 - Updates to cross-link markdowns with code samples
-* 7/29/2016 - New pattern added, multisection. 
-* 5/19/2016 - Added Brand Bar code link.
-* 5/16/2016 - Added markdown files for each pattern.
-* 5/6/2016 - Added links to code repo.
-* 4/7/16 - Updates to the auth flows and dialog patterns
-* 3/31/16 - Updates to dialog patterns files and other minor fixes
-* 3/30/16 - Added 4 new first run patterns, updated brand_bar and notifications_inline_messages pattern
-* 3/25/16 - Additional templates and patterns added
-* 3/24/16 - Initial read-me and patterns release
 
 ## Additional resources
 
