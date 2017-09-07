@@ -9,7 +9,6 @@ To download the entire set of code samples navigate to the following repo:  [Off
 - [Get started](#user-content-get-started)
 - [UX design patterns list](#user-content-ux-design-patterns-list)
 - [Design Resources](#user-content-design-resources)
-- [Change log](#user-content-change-log)
 - [Additional Resources](#user-content-additional-resources)
 
 ## Get started
