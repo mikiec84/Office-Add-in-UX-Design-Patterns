@@ -2,7 +2,7 @@
 
 Trial Feature allows unlocking a feature in an add-in, and signing-up for a trial version of the add-in.
 
-> This patten is no longer being supported.
+> This pattern is not currently supported.
 
 #### Code sample
 * [Trial feature code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/trial-feature)
